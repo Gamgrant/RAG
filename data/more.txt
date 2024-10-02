@@ -1,0 +1,79 @@
+=section_start=
+=section name="Intro"
+This list of museums in Pittsburgh, Pennsylvania encompasses museums defined for this context as institutions (including nonprofit organizations, government entities, and private businesses) that collect and care for objects of cultural, artistic, scientific, or historical interest and make their collections or related exhibits available for public viewing. Also included are university and non-profit art galleries. Museums that exist only in cyberspace (i.e., virtual museums) are not included.
+To use the sortable table, click on the icons at the top of each column to sort that column in alphabetical order; click again for reverse alphabetical order.
+=section_end=
+=section_start=
+=section name="Museums"
+=== Table ===
++------------------------------+-----------------+----------------+------------------------------+
+|Name                          |Neighborhood     |Type            |Summary                       |
++------------------------------+-----------------+----------------+------------------------------+
+|American Jewish Museum        |Squirrel Hill    |Art             |Contemporary Jewish art       |
++------------------------------+-----------------+----------------+------------------------------+
+|Andy Warhol Museum            |North Shore      |Art             |Over 4,000 Warhol art works in|
++------------------------------+-----------------+----------------+------------------------------+
+|August Wilson Center for Afric|Cultural District|African American|Cultural center about African |
++------------------------------+-----------------+----------------+------------------------------+
+|Bicycle Heaven                |Chateau          |Transportation  |website, bicycle store and mus|
++------------------------------+-----------------+----------------+------------------------------+
+|Carnegie Museum of Art        |Oakland          |Art             |Contemporary art, hosts the Ca|
++------------------------------+-----------------+----------------+------------------------------+
+|Carnegie Museum of Natural His|Oakland          |Natural history |Dinosaurs, gems & minerals, Na|
++------------------------------+-----------------+----------------+------------------------------+
+|Kamin Science Center          |Chateau          |Science         |Hands-on exhibits, includes Mi|
++------------------------------+-----------------+----------------+------------------------------+
+|Center for PostNatural History|Garfield         |Natural history |Storefront museum, displays or|
++------------------------------+-----------------+----------------+------------------------------+
+|Children's Museum of Pittsburg|Allegheny Center |Children's      |Exhibits include Mister Rogers|
++------------------------------+-----------------+----------------+------------------------------+
+|The Clemente Museum           |Lawrenceville    |Biographical    |Life of baseball Hall of Famer|
++------------------------------+-----------------+----------------+------------------------------+
+|Elmer H. Grimm Sr. Pharmacy Mu|Oakland          |Medical         |Historic pharmacy displays, pa|
++------------------------------+-----------------+----------------+------------------------------+
+|Fort Pitt Museum              |Downtown         |Open air        |Fort Pitt's role during the Fr|
++------------------------------+-----------------+----------------+------------------------------+
+|The Frick Pittsburgh          |Point Breeze     |Multiple        |Includes Clayton, the restored|
++------------------------------+-----------------+----------------+------------------------------+
+|Heinz History Center          |Strip District   |Local history   |History of Western Pennsylvani|
++------------------------------+-----------------+----------------+------------------------------+
+|Kelso Museum of Near Eastern A|East Liberty     |Archaeology     |Operated by the Pittsburgh The|
++------------------------------+-----------------+----------------+------------------------------+
+|Mattress Factory              |Central Northside|Art             |Exhibits room-sized installati|
++------------------------------+-----------------+----------------+------------------------------+
+|Miller Gallery at Carnegie Mel|Oakland          |Art             |Contemporary art gallery      |
++------------------------------+-----------------+----------------+------------------------------+
+|Miniature Railroad & Village  |Chateau          |Model trains    |Located in the Carnegie Scienc|
++------------------------------+-----------------+----------------+------------------------------+
+|Nationality Rooms             |Oakland          |Culture         |Guided tours of special classr|
++------------------------------+-----------------+----------------+------------------------------+
+|Photo Antiquities Museum of Ph|Allegheny Center |Art             |website, history of photograph|
++------------------------------+-----------------+----------------+------------------------------+
+|Pittsburgh Center for the Arts|Point Breeze     |Art             |Community arts campus that off|
++------------------------------+-----------------+----------------+------------------------------+
+|Pittsburgh Glass Center       |Garfield         |Art             |Hodge Gallery features contemp|
++------------------------------+-----------------+----------------+------------------------------+
+|Randyland                     |Central Northside|Art             |Dedicated to the outsider art |
++------------------------------+-----------------+----------------+------------------------------+
+|Silver Eye Center for Photogra|South Side Flats |Art             |website, hosts four photograph|
++------------------------------+-----------------+----------------+------------------------------+
+|Society for Contemporary Craft|Strip District   |Art             |Contemporary art in craft medi|
++------------------------------+-----------------+----------------+------------------------------+
+|Soldiers and Sailors Memorial |Oakland          |Military        |Largest memorial in the United|
++------------------------------+-----------------+----------------+------------------------------+
+|Stephen Foster Memorial Museum|Oakland          |Biographical    |Collection of composer Stephen|
++------------------------------+-----------------+----------------+------------------------------+
+|ToonSeum                      |Cultural District|Art             |Cartoon art                   |
++------------------------------+-----------------+----------------+------------------------------+
+|Trundle Manor                 |Swissvale        |Art             |Oddity museum dedicated to ste|
++------------------------------+-----------------+----------------+------------------------------+
+|University Arts Gallery       |Oakland          |Art             |Part of the University of Pitt|
++------------------------------+-----------------+----------------+------------------------------+
+|University of Pittsburgh Denta|Oakland          |Medical         |Historic dental artifacts and |
++------------------------------+-----------------+----------------+------------------------------+
+|Western Pennsylvania Sports Mu|Strip District   |Sports          |Located in the Smithsonian win|
++------------------------------+-----------------+----------------+------------------------------+
+|Wood Street Galleries         |Cultural District|Art             |Contemporary art gallery featu|
++------------------------------+-----------------+----------------+------------------------------+
+=== End of Table ===
+=section_end=
