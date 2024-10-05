@@ -1,5 +1,3 @@
-************************ General Questions **********************************
-
 Q: Who is Pittsburgh named after?
 A: William Pitt
 
@@ -99,8 +97,6 @@ A: The annual pickle festival in Pittsburgh is called Picklesburgh.
 Q: When was the Pittsburgh Soul Food Festival established?
 A: The Pittsburgh Soul Food Festival was established in 2019.
 
-******* More specific questions **********
-
 Q: What famous machine learning venue had its first conference in Pittsburgh in 1980?
 A: ICML
 
@@ -155,97 +151,95 @@ A: Pittsburgh Irish Festival.
 Q: What NFL match will take place on November 17th, 2024 in Pittsburgh's Acrisure stadium?
 A: The Pittsburgh Steeler's will face the Baltimore Ravens.
 
-Q:
-A:
+Q: What events take place during Pittsburgh's Great American Banana Split Fest?
+A: Events that take place include the 5k Banana Run, Blood Drive, Cornhole Tournament, Great American Banana Baking Contest, Dole Great American Banana Challenge, Car Show and Yellow Tie Gala.
 
-Q:
-A:
+Q: What performance for PNC Broadway in Pittsburgh will take place on Novemeber 19th, 2024?
+A: MJ the Musical
 
-Q:
-A:
+Q: When will the performance, MJ the Musical, take place for PNC Broadway in Pittsburgh?
+A: The event will take place from November 19th to December 1st 2024.
 
-Q:
-A:
+Q: When will Carnegie Mellon University's annual Spring Carnvial take place in 2025?
+A: The Spring Carnival will take place between April 3rd - 5th 2025.
 
-Q:
-A:
+Q: What Carnegie Mellon University annual event celebrates the university's traditional mainstays like Booth, Buggy, the Kiltie Band concert and Scotch'n'Soda performances?
+A: Spring Carnival
 
-Q:
-A:
+Q: What will happen if you submit a Pittsburgh tax return without registering it with the Department of Finance?
+A: Tax Returns that are received by the Department of Finance and are not registered will be returned to the taxpayer along with a registration form.
 
-Q:
-A:
+Q: What is Pennsylvania's minimum wage as of 2024?
+A: Pennsylvania's minimum wage is $7.25 per hour.
 
-Q:
-A:
+Q: What is Carnegie Mellon University's world rank in Drama schools?
+A: Carnegie Mellon University is ranked #7 in best schools for Drama.
 
-Q:
-A:
+Q: What is Carnegie Mellon University's motto, which was part of a famous quote by Andrew Carnegie?
+A: My heart is in the work.
 
-Q:
-A:
+Q: What is the name of Carnegie Mellon’s mascot?
+A: Scotty
 
-Q:
-A:
+Q: Which Carnegie Mellon professor is known for their research in artificial intelligence and was awarded the Turing Award?
+A: Raj Reddy
 
-Q:
-A:
+Q: What is the name of the annual arts festival held in Pittsburgh that showcases local and national artists?
+A: Three Rivers Art Festival
 
-Q:
-A:
+Q: What is the name of the park that hosts the Three Rivers Arts Festival each summer?
+A: Point State Park
 
-Q:
-A:
-
-****************** Very specific questions ***************************
+Q: What major league baseball team calls PNC Park home?
+A: The Pittsburgh Pirates
 
 Q: What musical artist is performing at PPG Arena on October 13?
 A: Billie Eilish
 
-Q:
-A:
+Q: In which year did the Pittsburgh Steelers win their first Super Bowl?
+A: The Pittsburgh Steelers won their first superbowl in 1975.
 
-Q:
-A:
+Q: In which year did Pittsburgh begin to produce steel?
+A: Pittsburgh began to produce steel in 1875.
 
-Q:
-A:
+Q: What is the name of the Pittsburgh Symphony Orchestra’s home venue?
+A: Heinz Hall for the Performing Arts
 
-Q:
-A:
+Q: What is the name of Pittsburgh’s student-run newspaper?
+A: The Pitt News, which is run by University of Pittsburgh students.
 
-Q:
-A:
+Q: Which annual music festival takes place in Pittsburgh each summer?
+A: The Pittsburgh International Jazz Festival.
 
-Q:
-A:
+Q: Which stadium do the Pittsburgh Steelers play in?
+A: Acrisure Stadium.
 
-Q:
-A:
+Q: What year did the Pittsburgh Penguins win their first Stanley Cup?
+A: The Pittsburgh Penguins won their first Stanley Cup in 1991.
 
-Q:
-A:
+Q: Who is the all-time leading scorer for the Pittsburgh Penguins?
+A: Sidney Crosby
 
-Q:
-A:
+Q: What NFL team does the Pittsburgh Steelers have a rivalry with?
+A: The Baltimore Ravens
 
-Q:
-A:
+Q: What year did the Pirates last win the World Series?
+A: The Pirates won the World Series Champions in 1979.
 
-Q:
-A:
+Q: Who was the legendary coach of the Steelers during their Super Bowl victories in the 1970s?
+A: The legendary coach of the Pittsburgh Steelers during their Super Bowl victories in the 1970s was Chuck Noll.
 
-Q:
-A:
+Q: Which venue is known as the home field for the Pittsburgh Pirates?
+A: PNC Park
 
-Q:
-A:
+Q: What is the nickname of Carnegie Mellon University's student body?
+A: The Tartans
 
-Q:
-A:
+Q: What year was the University of Pittsburgh established?
+A: The University of Pittsburgh was founded in 1787 and is one of the oldest institutions of higher education in the United States.
 
-Q:
-A:
+Q: What is the name of the dialect of American English that is primarily spoken in Western Pennsylvania, with the strongest accents in Pittsburgh?
+A: Pittsburghese
 
 Q:
 A:
