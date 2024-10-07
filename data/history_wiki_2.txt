@@ -38,6 +38,7 @@ The village began to develop vital institutions. Hugh Henry Brackenridge, a Pitt
 Many farmers distilled their corn harvest into whiskey, increasing its value while lowering its transportation costs. At that time, whiskey was used as a form of currency on the frontier. When the federal government imposed an excise tax on whiskey, Western Pennsylvania farmers felt victimized, leading to the Whiskey Rebellion in 1794. Farmers from the region rallied at Braddock's Field and marched on Pittsburgh. The short-lived rebellion was put down, however, when President George Washington sent in militias from several states.[20]
 The town continued to grow in manufacturing capability. In 1792, the boatyards in Pittsburgh built a sloop, Western Experiment.[26] During the next decades, the yards produced other large boats. By the 19th century, they were building ocean-going vessels that shipped goods as far as Europe. In 1794, the town's first courthouse was built; it was a wooden structure on Market Square.[11] In 1797, the manufacture of glass began.[27]
 === Table ===
+Table Name: No Name
 +----+------------------------------+
 |Year|City Population[11][21][28][29|
 +----+------------------------------+
@@ -68,6 +69,7 @@ Despite many challenges, Pittsburgh had grown into an industrial powerhouse. An 
 - producing almost $12M in goods
 - using 400 steam engines
 === Table ===
+Table Name: No Name
 +----+---------------+-------------+
 |Year|City Population|City Rank[35]|
 +----+---------------+-------------+
@@ -187,6 +189,7 @@ Pittsburgh was at the center of the "Arsenal of Democracy" that provided steel, 
 =section name="Postwar"
 David Lawrence, a Democrat, served as mayor of Pittsburgh from 1946 to 1959 and as Pennsylvania's governor from 1959 to 1963.[68] Lawrence used his political power to transform Pittsburgh's political machine into a modern governmental unit that could run the city well and honestly.[69] In 1946 Lawrence decided to enforce the Smoke Control Ordinance of 1941 because he believed smoke abatement was crucial for the city's future economic development. However, enforcement placed a substantial burden on the city's working-class because smoky bituminous coal was much less expensive than smokeless fuels. One round of protests came from Italian-American organizations, which called for delay in enforcing it. Enforcement raised their cost of living and threatened the jobs of their relatives in nearby bituminous coal mines. Despite dislike of the smoke abatement program, Italian Americans strongly supported the reelection of Lawrence in 1949, in part because many of them were on the city payroll.[70]
 === Table ===
+Table Name: No Name
 +----+---------------+-------------+
 |Year|City Population|City Rank[35]|
 +----+---------------+-------------+
@@ -253,6 +256,7 @@ Also in 1985, Al Michaels revealed to a national TV audience how Pittsburgh had 
 =section name="Pittsburgh today"
 Present-day Pittsburgh, with a diversified economy, a low cost of living, and a rich infrastructure for medicine and education and culture, has been ranked as one of the World's Most Livable Cities.[92] Tourism has recently boomed in Pittsburgh with nearly 3,000 new hotel rooms opening since 2004 and holding a consistently higher occupancy than in comparable cities. Medicine has replaced steel as a leading industry.[93] Meanwhile, tech giants such as Apple, Google, IBM Watson, Facebook, and Intel have joined the 1,600 technology firms choosing to operate out of Pittsburgh. As a result of the proximity to CMU's National Robotics Engineering Center (NREC), there has a boom of autonomous vehicles companies. The region has also become a leader in green environmental design, a movement exemplified by the city's convention center. In the last twenty years the region has seen a small but influential group of Asian immigrants, including from the Indian sub-continent. It has been generally considered as the most recovered city from the rust belt. [94]
 === Table ===
+Table Name: No Name
 +----+---------------+-------------+------------------------------+
 |Year|City Population|City Rank[35]|Population of the Urbanized Ar|
 +----+---------------+-------------+------------------------------+
@@ -300,53 +304,6 @@ Present-day Pittsburgh, with a diversified economy, a low cost of living, and a 
 - 1792 (September 6) Pittsburgh Township, Allegheny County, Pennsylvania.
 - 1794 (April 22) Pittsburgh borough, Allegheny County, Pennsylvania.[102]
 - 1816 (March 18) City of Pittsburgh, Allegheny County, Pennsylvania.
-=section_end=
-=section_start=
-=section name="Bibliography"
-- Baldwin, Leland D. Pittsburgh: The Story of a City (U of Pittsburgh Press, 1937) online
-- Bauman, John F.; Muller, Edward K. (2006). "Before Renaissance: Planning in Pittsburgh, 1889–1943". University of Pittsburgh Press. p. 331. Retrieved February 10, 2014.
-- Cannadine, David. Mellon: An American Life (2006), major biography of Thomas Mellon and Andrew Mellon, top financial leaders
-- Carson, Carolyn Leonard. Healing Body, Mind, and Spirit: The History of the St. Francis Medical Center, Pittsburgh, Pennsylvania. Carnegie Mellon U. Press, 1995. 246 pp.
-- Couvares, Francis G. (1984). The Remaking of Pittsburgh: Class and Culture in an Industrializing City 1877–1919. State University of New York Press.
-- Cowan, Aaron. A Nice Place to Visit: Tourism and Urban Revitalization in the Postwar Rustbelt (2016) compares Cincinnati, St. Louis, Pittsburgh, and Baltimore in the wake of deindustrialization.
-- Crowley, Gregory J. The Politics of Place: Contentious Urban Redevelopment in Pittsburgh. (U. of Pittsburgh Press, 2005). 207 pp.
-- Devault, Ileen A. Sons and Daughters of Labor: Class and Clerical Work in Turn-of-the-Century Pittsburgh. (Cornell U. Press, 1991). 194 pp.
-- Dieterich-Ward, Allen Beyond Rust: Metropolitan Pittsburgh and the Fate of Industrial America. University of Pennsylvania Press, 2016. 347pp. online review
-- Glasco, Laurence A., ed. The WPA History of the Negro in Pittsburgh. (U. of Pittsburgh Press, 2004). 422 pp.
-- Greenwald, Maurine W. and Margo Anderson, eds. Pittsburgh Surveyed: Social Science and Social Reform in the Early Twentieth Century. U. of Pittsburgh Press, 1996. 292 pp.
-- Grinder, Robert Dale. " From Insurgency to Efficiency: The Smoke Abatement Campaign in Pittsburgh before World War I." Western Pennsylvania Historical Magazine (1978) 61#3 pp 187–202.
-- Hays, Samuel P., ed. City at the Point: Essays on the Social History of Pittsburgh. U. of Pittsburgh Press, 1989. 473 pp.
-- Heineman, Kenneth J. (1999). A Catholic New Deal: Religion and Reform in Depression Pittsburgh. Pennsylvania State U. Press. p. 287.
-- Hinshaw, John. Steel and Steelworkers: Race and Class Struggle in Twentieth-Century Pittsburgh. State U. of New York Press, 2002. 348 pp.
-- Holli, Melvin G., and Jones, Peter d'A., eds. Biographical Dictionary of American Mayors, 1820-1980 (Greenwood Press, 1981) short scholarly biographies each of the city's mayors 1820 to 1980. online; see index at p. 410 for list.
-- Hoerr, John. And the Wolf Finally Came: The Decline of American Steel. U. of Pittsburgh Press, 1988. 689 pp.
-- Holt, Michael. Forging a Majority: The Formation of the Republican Party in Pittsburgh, 1848-18 (1969).
-- Ingham, John N. Making Iron and Steel: Independent Mills in Pittsburgh, 1820–1920. Ohio State U. Press, 1991. 297 pp.
-- Kleinberg, S. J. The Shadow of the Mills: Working-Class Families in Pittsburgh, 1870–1907. U. of Pittsburgh Press, 1989. 414 pp.
-- Kobus, Kenneth J. City of Steel: How Pittsburgh became the world's steelmaking capital during the Carnegie era (2015) 320pp.
-- Krause, Paul. The Battle for Homestead, 1880–1892: Politics, Culture, and Steel. U. of Pittsburgh Press, 1992. 548 pp.
-- Lopez, Steven Henry. Reorganizing the Rust Belt: An Inside Study of the American Labor Movement. U. of California Press, 2004. 314 pp.
-- Lorant, Stefan. Pittsburgh: The Story of an American City, (1964), well written, heavily illustrated popular history
-- Lubove, Roy. Twentieth Century Pittsburgh: Government, Business, and Environmental Change (1969). Lubove, Roy. Twentieth-Century Pittsburgh. Vol. 2: The Post-Steel Era. U. of Pittsburgh Press, 1996. 413 pp. the major scholarly synthesis.
-- Lubove, Roy. Twentieth-Century Pittsburgh. Vol. 2: The Post-Steel Era. U. of Pittsburgh Press, 1996. 413 pp. the major scholarly synthesis.
-- Mayfield, Loomis. "Voting Fraud in Early Twentieth-Century Pittsburgh." Journal of Interdisciplinary History 24#1 (1993), pp. 59–84 online
-- Nasaw, David. Andrew Carnegie (2006), major scholarly biography. online
-- Rishel, Joseph F. Founding Families of Pittsburgh: The Evolution of a Regional Elite, 1760–1910. U. of Pittsburgh Press, 1990. 241 pp.
-- Rose, James D. Duquesne and the Rise of Steel Unionism. U. of Illinois Press, 2001. 284 pp.
-- Ruck, Rob. Sandlot Seasons: Sport in Black Pittsburgh. U. of Illinois Press, 1987. 238 pp.
-- Seely, Bruce E., ed. Iron and Steel in the Twentieth Century. Facts on File, 1994. 512 pp.
-- Slavishak, Edward Steven. Bodies of Work: Civic Display and Labor in Industrial Pittsburgh (2008)
-- Smith, Arthur G. Pittsburgh: Then and Now. U. of Pittsburgh Press, 1990. 336 pp.
-- Smith, George David. From Monopoly to Competition: The Transformation of Alcoa, 1888–1986. Cambridge U. Press, 1988. 554 pp.
-- Stave, Bruce M. "Pittsburgh and the New Deal," in John Braeman et al. eds. The New Deal: Volume Two – the State and Local Levels (1975) pp 376–406
-- Tarr, Joel A., ed. (2003). "Devastation and Renewal: An Environmental History of Pittsburgh and Its Region". U. of Pittsburgh Press. p. 312. Retrieved February 10, 2014.
-- Trotter, Joe W., and Jared N. Day. Race and Renaissance: African Americans in Pittsburgh Since World War II (University of Pittsburgh Press; 2010) 328 pages. Draws on journalism, oral histories, and other sources to study the city's black community, including its experience of the city's industrial decline and rebirth.
-- Wade, Richard C. The Urban Frontier: The Rise of Western Cities, 1790–1830. (1959)
-- Wall, Joseph. Andrew Carnegie (1970). 1137 pp.; major scholarly biography
-- Warren, Kenneth. Triumphant Capitalism: Henry Clay Frick and the Industrial Transformation of America. U. of Pittsburgh Press, 1996.
-- Weber, Michael P. Don't Call Me Boss: David L. Lawrence, Pittsburgh's Renaissance Mayor. U. of Pittsburgh Press, 1988. 440 pp.
-- Winant, Gabriel. The Next Shift: The Fall of Industry and the Rise of Health Care in Rust Belt America (Harvard University Press, 2021), focus on Pittsburgh
-- Lubove, Roy. Twentieth-Century Pittsburgh. Vol. 2: The Post-Steel Era. U. of Pittsburgh Press, 1996. 413 pp. the major scholarly synthesis.
 =section_end=
 =section_start=
 =section name="Primary sources"

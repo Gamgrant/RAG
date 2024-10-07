@@ -6,6 +6,7 @@ To use the sortable table, click on the icons at the top of each column to sort 
 =section_start=
 =section name="Museums"
 === Table ===
+Table Name: Museums
 +------------------------------+-----------------+----------------+------------------------------+
 |Name                          |Neighborhood     |Type            |Summary                       |
 +------------------------------+-----------------+----------------+------------------------------+
