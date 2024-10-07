@@ -1,0 +1,33 @@
+"New" - New features, components or functionality 
+"Improvements" - Improvements made to existing features 
+"Fixes" - Bugs(technical issues) that have been fixed 
+"Known Issues" - Issues that the Web Team are aware of and/or found by the public 
+"Operations" - Any changes/improvements that have been done to the servers
+All of the pages that used the "Tab" system of navigation has been replacement by a traditonal vertical menu. This new layout allows for significantly better search engine optization and usability.
+Press Release Signup form has been added to the PR page.
+Missing content has been placed in respected department areas including meeting schedule information and other content that was missing since launch.
+Citizen Guide Widget that will be installed on the homepage below the search bar. The guide will lead visitors to the most popular city services. 
+New Press Release filter feature will be added to the archive page a quicker and more convient experience.
+City Directory
+Open Gov Portal
+Policies
+Press Releases
+Website Release Notes
+Accessibility
+
+311
+Contract Bids
+Dog Licenses
+Online Shelter Permit
+Tax Info
+OneStopPGH
+
+Boards, Authorities, Commissions
+City Clerk's Office
+City Council
+Controller's Office
+Mayor's Office
+Public Safety
+
+Tonight, the City-County Building is illuminated in a standard colorful roatation with no affilation.
+For questions about the lighting at the City-County Building, please reach out to the Office of the Mayor.
