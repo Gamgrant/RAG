@@ -241,150 +241,194 @@ A: The University of Pittsburgh was founded in 1787 and is one of the oldest ins
 Q: What is the name of the dialect of American English that is primarily spoken in Western Pennsylvania, with the strongest accents in Pittsburgh?
 A: Pittsburghese
 
-Q:
-A:
+Q: In which U.S. state is Pittsburgh located?
+A: Pennsylvania
 
-Q:
-A:
+Q: Pittsburgh is famously known as the "City of" what?
+A: Bridges
 
-Q:
-A:
+Q: Who founded Pittsburgh in 1758?
+A: General John Forbes
 
-Q:
-A:
+Q: Pittsburgh was named after which British statesman?
+A: William Pitt
 
-Q:
-A:
+Q: Which famous industrialist established steel mills in Pittsburgh?
+A: Andrew Carnegie
 
-Q:
-A:
+Q: Which Pittsburgh neighborhood is home to major universities and hospitals?
+A: Oakland
 
-Q:
-A:
+Q: Which incline offers panoramic views of Pittsburgh?
+A: Duquesne Incline
 
-Q:
-A:
+Q: Which bridge is named after a Pittsburgh baseball legend?
+A: Roberto Clemente Bridge
 
-Q:
-A:
+Q: What is the primary color scheme of Pittsburgh's sports teams?
+A: Black and gold
 
-Q:
-A:
+Q: Which university houses the Cathedral of Learning?
+A: University of Pittsburgh
 
-Q:
-A:
+Q: What architectural style is the Cathedral of Learning?
+A: Gothic Revival
 
-Q:
-A:
+Q: What is the name of the science center in Pittsburgh?
+A: Carnegie Science Center
 
-Q:
-A:
+Q: What is the name of Pittsburgh's historic market district?
+A: Market Square
 
-Q:
-A:
+Q: Which neighborhood is known for its steep streets and steps?
+A: Beechview
 
-Q:
-A:
+Q: What is the name of Pittsburgh's major healthcare system?
+A: University of Pittsburgh Medical Center (UPMC)
 
-Q:
-A:
+Q: Which famous biographer referred to Pittsburgh as "hell with the lid taken off"?
+A: James Parton
 
-Q:
-A:
+Q: What is the name of the amusement park near Pittsburgh?
+A: Kennywood
 
-Q:
-A:
+Q: What year did the Great Fire of Pittsburgh occur?
+A: 1845
 
-Q:
-A:
+Q: Which park features a large conservatory and botanical gardens?
+A: Phipps Conservatory
 
-Q:
-A:
+Q: What is the name of Pittsburgh's theater district?
+A: Cultural District
 
-Q:
-A:
+Q: Which bridge is named after an environmentalist and author?
+A: Rachel Carson Bridge
 
-Q:
-A:
+Q: Who is the dance icon born in Pittsburgh in 1912?
+A: Gene Kelly
 
-Q:
-A:
+Q: Which 2009 global event was hosted in Pittsburgh?
+A: G20 Summit
 
-Q:
-A:
+Q: What is the name of Pittsburgh's professional women's football team?
+A: Pittsburgh Passion
 
-Q:
-A:
+Q: Which company, founded in 1892, was pivotal to Pittsburgh's steel industry?
+A: Carnegie Steel Company
 
-Q:
-A:
+Q: What is the name of the incline opposite the Duquesne Incline?
+A: Monongahela Incline
 
-Q:
-A:
+Q: Which mountain range is near Pittsburgh?
+A: Appalachian Mountains
 
-Q:
-A:
+Q: What nickname refers to Pittsburgh's historical pollution?
+A: Smoky City
 
-Q:
-A:
+Q: What nickname refers to Pittsburgh's downtown area?
+A: Golden Triangle
 
-Q:
-A:
+Q: Which major aluminum producer is headquartered in Pittsburgh?
+A: Aluminum Producers of America (Alcoa)
 
-Q:
-A:
+Q: Which Pittsburgh-born individual created "Mister Rogers' Neighborhood"?
+A: Fred Rogers
 
-Q:
-A:
+Q: What stadium did the Pittsburgh Pirates play in before PNC Park?
+A: Three Rivers Stadium
 
-Q:
-A:
+Q: Which Pittsburgh neighborhood is known as "Little Italy"?
+A: Bloomfield
 
-Q:
-A:
+Q: What is the name of Pittsburgh's light rail system?
+A: The T
 
-Q:
-A:
+Q: Which bank headquartered in Pittsburgh is among the largest in the U.S.?
+A: PNC Financial
 
-Q:
-A:
+Q: Who wrote the "Pittsburgh Cycle" of plays?
+A: August Wilson
 
-Q:
-A:
+Q: Which designed Pittsburgh's Schenley park?
+A: Edward Manning Bigelow
 
-Q:
-A:
+Q: What is the primary newspaper in Pittsburgh?
+A: Pittsburgh Post-Gazette
 
-Q:
-A:
+Q: Which Pittsburgh skyscraper is known for its glass facade?
+A: PPG Place
 
-Q:
-A:
+Q: Which neighborhood hosts the Pittsburgh Vintage Grand Prix?
+A: Schenley Park
 
-Q:
-A:
+Q: Which Pittsburgh bridge features a unique lenticular truss design?
+A: Smithfield Street Bridge
 
-Q:
-A:
+Q: What innovation did George Westinghouse invent?
+A: Air brake
 
-Q:
-A:
+Q: Which company is a global supplier of paints and coatings?
+A: PPG Industries
 
-Q:
-A:
+Q: Who was the broadcaster famous for "The Terrible Towel"?
+A: Myron Cope
 
-Q:
-A:
+Q: What disaster struck Pittsburgh in 1936?
+A: The Great St. Patrick's Day flood
 
-Q:
-A:
+Q: Which neighborhood features the Randyland art installation?
+A: Mexican War Streets
 
-Q:
-A:
+Q:Which historic fort preceded Fort Pitt?
+A: Fort Duquesne
 
-Q:
-A:
+Q: What are the University of Pittsburgh's sports teams called?
+A: Pitt Panthers
 
-Q:
-A:
+Q: Which neighborhood is home to the National Aviary?
+A: Allegheny Center
+
+Q: What is Pittsburgh's largest park by area?
+A: Frick Park
+
+Q: Which songwriter was born in Pittsburgh in 1826?
+A: Stephen Foster
+
+Q: Which street is famous for nightlife and bars?
+A: East Carson Street
+
+Q: Which company known for ketchup is based in Pittsburgh?
+A: Heinz
+
+Q: Which Pittsburgh neighborhood has a large Jewish community?
+A: Squirrel Hill
+
+Q: Which bridge is Pittsburgh's longest?
+A: McKees Rocks Bridge
+
+Q: Which building serves as Pittsburgh's city hall?
+A: City-County Building
+
+Q: What is the oldest restaurant in Pittsburgh?
+A: Original Oyster House
+
+Q: Which river was called "La Belle Rivière"?
+A: The Ohio river
+
+Q: Which company is known for locomotives in Pittsburgh?
+A: H.K Porter
+
+Q: Which neighborhood is associated with Henry Clay Frick?
+A: Point Breeze
+
+Q: What annual race is held in Pittsburgh since 1985?
+A: Pittsburgh Marathon
+
+Q: Which riverfront area became a shopping district?
+A: The Waterfront
+
+Q: Which abolitionist newspaper was published in Pittsburgh?
+A: Saturday Visiter
+
+
 
