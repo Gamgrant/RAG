@@ -3,6926 +3,5194 @@ Date & Time: Oct 07 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: Ambrose Urbanic Field
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 07 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 08 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 08 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 08 2024 8:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $73
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 08 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $53
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 08 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $26
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $86
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 5:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $47
-
 --------------------------------------------------
-
 Title: SMU Mustangs at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Oct 09 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $21
-
 --------------------------------------------------
-
 Title: Nanowar Of Steel and Tragedy
 Date & Time: Oct 09 2024 7:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $65
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $62
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 8:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $233
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 09 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $118
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $93
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 7:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $14
-
 --------------------------------------------------
-
 Title: The Concert:
 Date & Time: Oct 10 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $109
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $32
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 10 2024 10:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: Blippi
 Date & Time: Oct 11 2024 6:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $117
-
 --------------------------------------------------
-
 Title: California Golden Bears at Pittsburgh Panthers Men’s Soccer
 Date & Time: Oct 11 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: Ambrose Urbanic Field
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 11 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $170
-
 --------------------------------------------------
-
 Title: Monkeys on a String – Dave Matthews Band Tribute
 Date & Time: Oct 11 2024 8:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: RED BULL TURN IT UP: PITTSBURGH
 Date & Time: Oct 11 2024 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 11 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 11 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $179
-
 --------------------------------------------------
-
 Title: California Golden Bears at
 Date & Time: Oct 12 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $7
-
 --------------------------------------------------
-
 Title: Virginia Cavaliers at
 Date & Time: Oct 12 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: California Golden Bears at
 Date & Time: Oct 12 2024 3:30 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $15
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Highmark Stadium (Pittsburgh)
 Price: Prices from $18
-
 --------------------------------------------------
-
 Title: DISPATCH
 Date & Time: Oct 12 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $135
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $82
-
 --------------------------------------------------
-
 Title: The Fab Four: USA Meets The Beatles!
 Date & Time: Oct 12 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 8:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $36
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 12 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $178
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $27
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 4:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $157
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $358
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $81
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 8:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Winery
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: Smokin’ Betties Burlesque Presents: Return Of The Living Betties!
 Date & Time: Oct 13 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 13 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $93
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 14 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: High Point Panthers at Pittsburgh Panthers Men’s Soccer
 Date & Time: Oct 14 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: Ambrose Urbanic Field
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 14 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 14 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 14 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $47
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 15 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 15 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 15 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 16 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $99
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 16 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 16 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 16 2024 7:30 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $202
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 16 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $125
-
 --------------------------------------------------
-
 Title: ICONS –
 Date & Time: Oct 16 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: The
 Date & Time: Oct 16 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: Disney Jr Live On Tour – Let’s Play
 Date & Time: Oct 17 2024 6:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $114
-
 --------------------------------------------------
-
 Title: One Dark Night
 Date & Time: Oct 17 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: for KING + COUNTRY LIVE: The UNSUNG HERO 2024 Tour
 Date & Time: Oct 17 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 17 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 17 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $126
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 17 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $61
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 17 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: J.L. Cauvin with Special Guest
 Date & Time: Oct 17 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 17 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: HULDER “WINDS OF AUTUMNAL SORROW” TOUR
 Date & Time: Oct 18 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: California Golden Bears at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Oct 18 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Oct 18 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $10
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Oct 18 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $23
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $61
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $86
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $128
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $53
-
 --------------------------------------------------
-
 Title: An Evening with
 Date & Time: Oct 18 2024 8:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $90
-
 --------------------------------------------------
-
 Title: Rok Brigade – A Tribute To Def Leppard
 Date & Time: Oct 18 2024 8:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 18 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $47
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $88
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Oct 19 2024 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Oct 19 2024 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $10
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 6:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $325
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 6:30 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: Miami Redhawks at Robert Morris Colonials Men’s Hockey
 Date & Time: Oct 19 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $18
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 7:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Event Center at Rivers Casino Pittsburgh
 Price: Prices from $72
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $75
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 8:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $160
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 8:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: E5C4P3 – The Journey Tribute
 Date & Time: Oct 19 2024 8:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 19 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $47
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $160
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $90
-
 --------------------------------------------------
-
 Title: Wife & Death:
 Date & Time: Oct 20 2024 3:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: Stanford Cardinal at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Oct 20 2024 3:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Oct 20 2024 4:20 PM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent – Pitt
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: Wife & Death:
 Date & Time: Oct 20 2024 5:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $95
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $224
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 8:20 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $145
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 20 2024 8:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $130
-
 --------------------------------------------------
-
 Title: babyjake
 Date & Time: Oct 21 2024 6:30 PM
 Location: 15203, Pittsburgh, Pennsylvania, US
 Arena: Smiling Moose
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 21 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $189
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 21 2024 7:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: The Club at Stage AE
 Price: Prices from $94
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 21 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $81
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 21 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: Point Park Pioneers at
 Date & Time: Oct 22 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $65
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $110
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 8:00 PM
 Location: 15201, Pittsburgh, Pennsylvania, US
 Arena: Music Hall at Thunderbird Café & Music Hall
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 22 2024 8:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: Pat McGee with
 Date & Time: Oct 23 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $68
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 23 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 23 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Syracuse Orange at
 Date & Time: Oct 24 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $54
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: Family Fun featuring Elsa and Mirabel: 6:00 PM
 Date & Time: Oct 24 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 7:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Syracuse Orange at
 Date & Time: Oct 24 2024 7:30 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $9
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $21
-
 --------------------------------------------------
-
 Title: Southside Johnny and The Asbury Jukes
 Date & Time: Oct 24 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $75
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 24 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 10:30 AM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: Niagara Purple Eagles at Robert Morris Colonials Men’s Hockey
 Date & Time: Oct 25 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Virginia Cavaliers at Pittsburgh Panthers Men’s Soccer
 Date & Time: Oct 25 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: Ambrose Urbanic Field
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Louisville Cardinals at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Oct 25 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $165
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: Hello City – A
 Date & Time: Oct 25 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $67
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $65
-
 --------------------------------------------------
-
 Title: Anybody Out There – A Tribute to Pink Floyd
 Date & Time: Oct 25 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $65
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: MAKANO EN PITTSBURGH
 Date & Time: Oct 25 2024 9:00 PM
 Location: 15226, Pittsburgh, Pennsylvania, US
 Arena: Insomnia Discotec
 Price: Prices from $138
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 25 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 11:00 AM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 3:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $109
-
 --------------------------------------------------
-
 Title: El Paso Locomotive at
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Highmark Stadium (Pittsburgh)
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $140
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $37
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $39
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $107
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $275
-
 --------------------------------------------------
-
 Title: The
 Date & Time: Oct 26 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: Jake Shane – Therapuss Podcast Live
 Date & Time: Oct 26 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 26 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 11:00 AM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: FUNGUS – Tribute to Grateful Dead – Unplugged Matinee
 Date & Time: Oct 27 2024 12:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: The Real Drag Brunch of Pittsburgh
 Date & Time: Oct 27 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: Notre Dame Fighting Irish at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Oct 27 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 2:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: Peter Pan w/
 Date & Time: Oct 27 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 3:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 6:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: MOD SUN & lovelytheband
 Date & Time: Oct 27 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $39
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 27 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: The
 Date & Time: Oct 27 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $91
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Oct 28 2024 4:15 PM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent – Pitt
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 28 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 28 2024 8:15 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $108
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $84
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $91
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 29 2024 8:00 PM
 Location: 15201, Pittsburgh, Pennsylvania, US
 Arena: Music Hall at Thunderbird Café & Music Hall
 Price: Prices from $305
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 30 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 30 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $83
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 30 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 30 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 31 2024 6:30 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: All 4 One
 Date & Time: Oct 31 2024 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $148
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 31 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Oct 31 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $84
-
 --------------------------------------------------
-
 Title: New York’s Finest – Police Tribute
 Date & Time: Oct 31 2024 7:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $104
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $129
-
 --------------------------------------------------
-
 Title: Lindenwood Lions at Robert Morris Colonials Men’s Hockey
 Date & Time: Nov 01 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Desperado
 Date & Time: Nov 01 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: Samuel J. Comroe
 Date & Time: Nov 01 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $62
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 8:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $106
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 01 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Samuel J. Comroe
 Date & Time: Nov 01 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $139
-
 --------------------------------------------------
-
 Title: Mercyhurst Lakers at
 Date & Time: Nov 02 2024 12:00 PM
 Location: 15282, Pittsburgh, PA, US
 Arena: Arthur J. Rooney Athletic Field
 Price: Prices from $23
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $151
-
 --------------------------------------------------
-
 Title: Samuel J. Comroe
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: Lindenwood Lions at Robert Morris Colonials Men’s Hockey
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $68
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Event Center at Rivers Casino Pittsburgh
 Price: Prices from $75
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $122
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $95
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 8:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $339
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $21
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 02 2024 9:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $134
-
 --------------------------------------------------
-
 Title: Samuel J. Comroe
 Date & Time: Nov 02 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $100
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $122
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 6:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $206
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $206
-
 --------------------------------------------------
-
 Title: Samuel J. Comroe
 Date & Time: Nov 03 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $72
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 03 2024 8:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: An Evening With
 Date & Time: Nov 03 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: Radford Highlanders at
 Date & Time: Nov 04 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $13
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 04 2024 6:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $126
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 04 2024 7:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: Radford Highlanders at
 Date & Time: Nov 04 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $9
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 04 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: Lipscomb Bisons at
 Date & Time: Nov 04 2024 8:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $19
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 05 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $32
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 06 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: Partners for Comedy with
 Date & Time: Nov 06 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $67
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 06 2024 7:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 06 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: Arrival From Sweden – The Music of Abba
 Date & Time: Nov 06 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: eaJ
 Date & Time: Nov 07 2024 7:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: Beauty and The Beast
 Date & Time: Nov 07 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $124
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 07 2024 8:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: Murray State Racers at
 Date & Time: Nov 08 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: Murray State Racers at
 Date & Time: Nov 08 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: North Carolina Tar Heels at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Nov 08 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $127
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $82
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $82
-
 --------------------------------------------------
-
 Title: The
 Date & Time: Nov 08 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 9:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 08 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 11:15 AM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $168
-
 --------------------------------------------------
-
 Title: Robert Morris Colonials at
 Date & Time: Nov 09 2024 12:00 PM
 Location: 15282, Pittsburgh, PA, US
 Arena: Arthur J. Rooney Athletic Field
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Virginia Cavaliers at
 Date & Time: Nov 09 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $14
-
 --------------------------------------------------
-
 Title: Beauty and The Beast
 Date & Time: Nov 09 2024 2:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $113
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $68
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: Street Survivors – Lynyrd Skynyrd Tribute
 Date & Time: Nov 09 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: Beauty and The Beast
 Date & Time: Nov 09 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $113
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $83
-
 --------------------------------------------------
-
 Title: Ms. Pat
 Date & Time: Nov 09 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $82
-
 --------------------------------------------------
-
 Title: 4th Annual Benefit for The Greater Pittsburgh Community Food Bank
 Date & Time: Nov 09 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 09 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $53
-
 --------------------------------------------------
-
 Title: Duke Blue Devils at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Nov 10 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Beauty and The Beast
 Date & Time: Nov 10 2024 2:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $97
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: Crossfire Hurricane – Rolling Stones Tribute
 Date & Time: Nov 10 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 7:30 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 10 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $32
-
 --------------------------------------------------
-
 Title: Mike Dawson &
 Date & Time: Nov 10 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Gardner Webb Runnin’ Bulldogs at
 Date & Time: Nov 11 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $14
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 11 2024 6:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $158
-
 --------------------------------------------------
-
 Title: Gardner Webb Runnin’ Bulldogs at
 Date & Time: Nov 11 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $9
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 11 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 12 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 12 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 12 2024 8:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 12 2024 9:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $158
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $73
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 13 2024 8:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $300
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 14 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 14 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $96
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 14 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $84
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 14 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 14 2024 9:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Enclave Pittsburgh
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: West Virginia Mountaineers at
 Date & Time: Nov 15 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 15 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: Florida State Seminoles at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Nov 15 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Mercyhurst Lakers at Robert Morris Colonials Women’s Hockey
 Date & Time: Nov 15 2024 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 15 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 15 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: West Virginia Mountaineers at
 Date & Time: Nov 15 2024 8:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $135
-
 --------------------------------------------------
-
 Title: Finom with Special Guest
 Date & Time: Nov 15 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 15 2024 8:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 15 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: Wagner Seahawks at
 Date & Time: Nov 16 2024 12:00 PM
 Location: 15282, Pittsburgh, PA, US
 Arena: Arthur J. Rooney Athletic Field
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Clemson Tigers at
 Date & Time: Nov 16 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: Mercyhurst Lakers at Robert Morris Colonials Women’s Ice Hockey
 Date & Time: Nov 16 2024 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 16 2024 6:45 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $178
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 16 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 16 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 16 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: All Dave – Dave Matthews Tribute
 Date & Time: Nov 16 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 16 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Nov 17 2024 9:00 AM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent – Pitt
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: Miami Hurricanes at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Nov 17 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $19
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 17 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $170
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 17 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 17 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $130
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 17 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $34
-
 --------------------------------------------------
-
 Title: VMI Keydets at
 Date & Time: Nov 18 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $16
-
 --------------------------------------------------
-
 Title: VMI Keydets at
 Date & Time: Nov 18 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $9
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 18 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 19 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: Milwaukee Panthers at
 Date & Time: Nov 19 2024 7:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 19 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: The Seven Wonders – Tribute to Fleetwood Mac
 Date & Time: Nov 19 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 19 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $36
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 19 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 19 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: W.A.S.P.
 Date & Time: Nov 20 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 20 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $94
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 20 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 20 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 20 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: slowdive
 Date & Time: Nov 21 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 21 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 21 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $27
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 21 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 21 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $106
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $56
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 22 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $56
-
 --------------------------------------------------
-
 Title: MJ – The Musical
 Date & Time: Nov 23 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 6:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: MJ – The Musical
 Date & Time: Nov 23 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $118
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 23 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: The Real Drag Brunch of Pittsburgh
 Date & Time: Nov 24 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $61
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $125
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 6:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $119
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $21
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 24 2024 9:30 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 25 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $75
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 25 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 25 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 26 2024 6:30 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $53
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 26 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 26 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 26 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $31
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 27 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 27 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $62
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 27 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: Something Under A Microscope / Tempered / honervah /
 Date & Time: Nov 27 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 29 2024 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: American International Yellow Jackets at Robert Morris Colonials Men’s Hockey
 Date & Time: Nov 29 2024 5:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: girl in red
 Date & Time: Nov 29 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 29 2024 7:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Event Center at Rivers Casino Pittsburgh
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 29 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 29 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $161
-
 --------------------------------------------------
-
 Title: KARLOUS MILLER
 Date & Time: Nov 29 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: U245 (Tribute to U2)
 Date & Time: Nov 29 2024 8:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $32
-
 --------------------------------------------------
-
 Title: KARLOUS MILLER
 Date & Time: Nov 29 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: Georgia Tech Yellow Jackets at Pittsburgh Panthers Women’s Volleyball
 Date & Time: Nov 30 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Fitzgerald Field House
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 4:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: American International Yellow Jackets at Robert Morris Colonials Men’s Hockey
 Date & Time: Nov 30 2024 5:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 7:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $95
-
 --------------------------------------------------
-
 Title: KARLOUS MILLER
 Date & Time: Nov 30 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $78
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Nov 30 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: KARLOUS MILLER
 Date & Time: Nov 30 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 01 2024 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $103
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 01 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $131
-
 --------------------------------------------------
-
 Title: KARLOUS MILLER
 Date & Time: Dec 01 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: Jhene Aiko Presents: The Magic Hour Tour
 Date & Time: Dec 01 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 03 2024 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $55
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 03 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: Saint Peter’s Peacocks at
 Date & Time: Dec 03 2024 7:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 03 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $27
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 04 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $116
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 05 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: Illiterate Light with Special Guest
 Date & Time: Dec 05 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: Delaware Blue Hens at
 Date & Time: Dec 06 2024 6:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 06 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 06 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 06 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 06 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 06 2024 9:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 06 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 07 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $195
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $102
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 07 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 8:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 07 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Dec 08 2024 9:00 AM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent – Pitt
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 08 2024 11:00 AM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 08 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $108
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 08 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 08 2024 4:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 08 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 08 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 08 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 09 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 09 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: the Jesus Lizard
 Date & Time: Dec 09 2024 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 10 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 10 2024 4:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 10 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 10 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $102
-
 --------------------------------------------------
-
 Title: A Celtic Holiday with Lunasa
 Date & Time: Dec 10 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $104
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 10 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: Eastern Kentucky Colonels at
 Date & Time: Dec 11 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $16
-
 --------------------------------------------------
-
 Title: Eastern Kentucky Colonels at
 Date & Time: Dec 11 2024 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $9
-
 --------------------------------------------------
-
 Title: Maine Black Bears at
 Date & Time: Dec 11 2024 7:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 11 2024 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $111
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 11 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $88
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 12 2024 7:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 12 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 12 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 12 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $89
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 7:00 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $175
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 13 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $100
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Cafe at Thunderbird Cafe & Music Hall
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $36
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 13 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $87
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 14 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $54
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 14 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $87
-
 --------------------------------------------------
-
 Title: Stayin’ Alive – A Tribute to The Bee Gees
 Date & Time: Dec 14 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: Stayin Alive – Bee Gees Tribute
 Date & Time: Dec 14 2024 7:30 PM
 Location: 15213, Pittsburgh, PA, US
 Arena: Carnegie Music Hall
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 8:00 PM
 Location: 15210, Pittsburgh, Pennsylvania, US
 Arena: Bottlerocket Social Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: Desperado: The Ultimate Tribute to the Eagles
 Date & Time: Dec 14 2024 8:00 PM
 Location: 15219, Pittsburgh, PA, US
 Arena: Hard Rock Cafe Pittsburgh
 Price: Prices from $33
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $29
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 14 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 15 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 15 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 15 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $84
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 15 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 15 2024 8:00 PM
 Location: 15203, Pittsburgh, PA, US
 Arena: Club Cafe
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 16 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $326
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 16 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 17 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 17 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 17 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 19 2024 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 19 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 20 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 20 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: Sam Houston Bearkats at
 Date & Time: Dec 21 2024 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $14
-
 --------------------------------------------------
-
 Title: UC Irvine Anteaters at
 Date & Time: Dec 21 2024 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 21 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $117
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 21 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 21 2024 2:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: Highmark Holiday Pops
 Date & Time: Dec 21 2024 4:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 21 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 21 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 21 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $74
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 22 2024 12:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $117
-
 --------------------------------------------------
-
 Title: Highmark Holiday Pops
 Date & Time: Dec 22 2024 1:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 22 2024 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 22 2024 4:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 22 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 22 2024 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $162
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 23 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 23 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 23 2024 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $99
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Dec 25 2024 9:00 AM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent – Pitt
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: Pittsburgh Gold Zone Tailgate
 Date & Time: Dec 25 2024 10:00 AM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent - Pittsburgh
 Price: Prices from $71
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 25 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $133
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 26 2024 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 26 2024 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $62
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 26 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 26 2024 6:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $62
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 26 2024 6:01 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 26 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $123
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 27 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 27 2024 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: Cleary University Cougars at
 Date & Time: Dec 27 2024 7:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 27 2024 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 27 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 27 2024 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: The Nutcracker
 Date & Time: Dec 28 2024 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 28 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 28 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $73
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 28 2024 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 29 2024 5:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $77
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 29 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 29 2024 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $110
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 30 2024 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $117
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 30 2024 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $87
-
 --------------------------------------------------
-
 Title: Rhode Island Rams at
 Date & Time: Dec 31 2024 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 31 2024 6:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 31 2024 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Dec 31 2024 10:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: Louisville Cardinals at
 Date & Time: Jan 01 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $250
-
 --------------------------------------------------
-
 Title: California Golden Bears at
 Date & Time: Jan 01 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $27
-
 --------------------------------------------------
-
 Title: Syracuse Orange at
 Date & Time: Jan 02 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: North Carolina Tar Heels at
 Date & Time: Jan 03 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $500
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 03 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 03 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $28
-
 --------------------------------------------------
-
 Title: Boston College Eagles at
 Date & Time: Jan 04 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: Stanford Cardinal at
 Date & Time: Jan 04 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 04 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 04 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 05 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: Premium
 Date & Time: Jan 05 2025 1:00 PM
 Location: 15233, Pittsburgh, Pennsylvania, US
 Arena: Premium Tailgate Tent - Pittsburgh (InActive)
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: California Golden Bears at
 Date & Time: Jan 05 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: Clemson Tigers at
 Date & Time: Jan 06 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: Georgia Tech Yellow Jackets at
 Date & Time: Jan 07 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 07 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 07 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $86
-
 --------------------------------------------------
-
 Title: Miami Hurricanes at
 Date & Time: Jan 08 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: Saint Joseph’s Hawks at
 Date & Time: Jan 08 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 08 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: Stanford Cardinal at
 Date & Time: Jan 09 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 09 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $49
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 09 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 09 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: Virginia Cavaliers at
 Date & Time: Jan 10 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 10 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 10 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 10 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $276
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 10 2025 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: Louisville Cardinals at
 Date & Time: Jan 11 2025 1:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 11 2025 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 11 2025 4:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 11 2025 6:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 11 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $120
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 11 2025 9:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $52
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 12 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $128
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 12 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $276
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 12 2025 5:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $50
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 12 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $92
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 14 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: Canisius Golden Griffins at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 14 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 17 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 17 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: RIT Tigers at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 17 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 17 2025 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $54
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 17 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $276
-
 --------------------------------------------------
-
 Title: Clemson Tigers at
 Date & Time: Jan 18 2025 12:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: St. Bonaventure Bonnies at
 Date & Time: Jan 18 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 18 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $24
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey
 Date & Time: Jan 18 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Colonials Arena - RMU
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: RIT Tigers at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 18 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 18 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $276
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 19 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $276
-
 --------------------------------------------------
-
 Title: The Secret of Skinwalker Ranch
 Date & Time: Jan 23 2025 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $82
-
 --------------------------------------------------
-
 Title: PBR Two-Day Package – Ticket Includes Access to all days
 Date & Time: Jan 24 2025 12:00 AM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $126
-
 --------------------------------------------------
-
 Title: Army Black Knights at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 24 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: PBR – Unleash The Beast
 Date & Time: Jan 24 2025 7:45 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: Army Black Knights at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 25 2025 5:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 25 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $107
-
 --------------------------------------------------
-
 Title: PBR – Unleash The Beast
 Date & Time: Jan 25 2025 7:45 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 26 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $771
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 27 2025 8:00 PM
 Location: 15201, Pittsburgh, Pennsylvania, US
 Arena: Music Hall at Thunderbird Café & Music Hall
 Price: Prices from $65
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Jan 28 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $137
-
 --------------------------------------------------
-
 Title: North Carolina Tar Heels at
 Date & Time: Jan 28 2025 9:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Jan 29 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $137
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 29 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $56
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 30 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Jan 30 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $137
-
 --------------------------------------------------
-
 Title: Penn State Nittany Lions at Robert Morris Colonials Women’s Hockey
 Date & Time: Jan 31 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: Mercyhurst Lakers at Robert Morris Colonials Men’s Hockey
 Date & Time: Jan 31 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 31 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $151
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jan 31 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: UMass Minutemen at
 Date & Time: Feb 01 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Feb 01 2025 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: Penn State Nittany Lions at Robert Morris Colonials Women’s Ice Hockey
 Date & Time: Feb 01 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 01 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: Mercyhurst Lakers at Robert Morris Colonials Men’s Hockey
 Date & Time: Feb 01 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Feb 01 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $149
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Feb 02 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $151
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 02 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Life Of Pi
 Date & Time: Feb 02 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 02 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: Virginia Cavaliers at
 Date & Time: Feb 03 2025 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 04 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $44
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 04 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 06 2025 7:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $56
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 06 2025 8:00 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 07 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Robert Morris University Colonials Womens Hockey vs. Syracuse University Hockey
 Date & Time: Feb 07 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $23
-
 --------------------------------------------------
-
 Title: Loyola Chicago Ramblers at
 Date & Time: Feb 08 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: Syracuse Orange at Robert Morris Colonials Women’s Ice Hockey
 Date & Time: Feb 08 2025 3:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 08 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $105
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 09 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 13 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $41
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 14 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $46
-
 --------------------------------------------------
-
 Title: Lindenwood Lady Lions at Robert Morris Colonials Women’s Hockey
 Date & Time: Feb 14 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $12
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 14 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Lindenwood Lady Lions at Robert Morris Colonials Women’s Ice Hockey
 Date & Time: Feb 15 2025 12:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Miami Hurricanes at
 Date & Time: Feb 15 2025 12:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 15 2025 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: Niagara Purple Eagles at Robert Morris Colonials Men’s Hockey
 Date & Time: Feb 15 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 15 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $48
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 15 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 16 2025 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $83
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 16 2025 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 16 2025 1:01 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $93
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 16 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Syracuse Orange at
 Date & Time: Feb 18 2025 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: Air Force Falcons at Robert Morris Colonials Men’s Hockey
 Date & Time: Feb 21 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 21 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 22 2025 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $107
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 22 2025 3:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $102
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 22 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: Air Force Falcons at Robert Morris Colonials Men’s Hockey
 Date & Time: Feb 22 2025 7:00 PM
 Location: 15225, Pittsburgh, Pennsylvania, US
 Arena: Clearview Arena (Formerly RMU Island Sports Center)
 Price: Prices from $22
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 23 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 23 2025 3:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 23 2025 7:00 PM
 Location: 15236, Pittsburgh, PA, US
 Arena: Crafthouse Stage & Grill
 Price: Prices from $27
-
 --------------------------------------------------
-
 Title: Georgia Tech Yellow Jackets at
 Date & Time: Feb 25 2025 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $30
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 27 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $94
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 27 2025 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $130
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 28 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $95
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 28 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 28 2025 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $39
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 28 2025 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Feb 28 2025 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: George Mason Patriots at
 Date & Time: Mar 01 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $17
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 01 2025 3:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 01 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: Ashley Cooke
 Date & Time: Mar 01 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 02 2025 1:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $70
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 02 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Virginia Commonwealth Rams at
 Date & Time: Mar 04 2025 1:00 PM
 Location: 15282, Pittsburgh, Pennsylvania, US
 Arena: UPMC Cooper Fieldhouse
 Price: Prices from $20
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 04 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $215
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 05 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $215
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 06 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $215
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 06 2025 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $119
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 07 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $155
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 07 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 08 2025 2:01 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $122
-
 --------------------------------------------------
-
 Title: Boston College Eagles at
 Date & Time: Mar 08 2025 6:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $35
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 08 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 08 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 09 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $128
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 09 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 09 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $215
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 11 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $45
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 13 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $47
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 15 2025 3:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $87
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 16 2025 8:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Carnegie of Homestead Music Hall
 Price: Prices from $85
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 16 2025 8:00 PM
 Location: 15201, Pittsburgh, Pennsylvania, US
 Arena: Music Hall at Thunderbird Café & Music Hall
 Price: Prices from $71
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 18 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $39
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 19 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $665
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 21 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $60
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 21 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 23 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $124
-
 --------------------------------------------------
-
 Title: Modi –
 Date & Time: Mar 26 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $66
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 28 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 28 2025 7:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 28 2025 9:45 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 29 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $58
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 29 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 29 2025 9:30 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 30 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 30 2025 5:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $57
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Mar 30 2025 7:00 PM
 Location: 15120, Pittsburgh, Pennsylvania, US
 Arena: Pittsburgh Improv
 Price: Prices from $42
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 01 2025 7:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 01 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 02 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 03 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 04 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $255
-
 --------------------------------------------------
-
 Title: Peter Pan
 Date & Time: Apr 04 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 04 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 05 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $102
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 05 2025 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $167
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 05 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 05 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $43
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 05 2025 7:30 PM
 Location: 15201, Pittsburgh, PA, US
 Arena: Spirit Hall
 Price: Prices from $54
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 06 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 06 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $200
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 06 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: Peter Pan
 Date & Time: Apr 06 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $195
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 07 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 08 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 08 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 08 2025 7:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: Explosions in the Sky
 Date & Time: Apr 08 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 09 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 11 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 12 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 13 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 13 2025 3:30 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $79
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 14 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 15 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 15 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 16 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 16 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 17 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 17 2025 7:00 PM
 Location: 15219, Pittsburgh, Pennsylvania, US
 Arena: PPG Paints Arena
 Price: Prices from $59
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 17 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 18 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 18 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 19 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 19 2025 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $190
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 19 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $80
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 20 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $128
-
 --------------------------------------------------
-
 Title: Some Like it Hot
 Date & Time: Apr 20 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $175
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 25 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: AMA Supercross Championship
 Date & Time: Apr 26 2025 6:30 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: Acrisure Stadium (formerly Heinz Field)
 Price: Prices from $64
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 26 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 27 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 29 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 29 2025 6:30 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $73
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Apr 30 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 01 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 02 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Come From Away
 Date & Time: May 02 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 03 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Come From Away
 Date & Time: May 03 2025 2:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: Come From Away
 Date & Time: May 03 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $150
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 04 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 04 2025 1:00 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: Come From Away
 Date & Time: May 04 2025 6:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: Benedum Center
 Price: Prices from $214
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 09 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 09 2025 7:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $38
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 09 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 10 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 10 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 11 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 11 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 15 2025 6:30 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $68
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 16 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 16 2025 7:30 PM
 Location: 15222, Pittsburgh, Pennsylvania, US
 Arena: City Winery Pittsburgh
 Price: Prices from $136
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 18 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 19 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Sessanta V 2.0:
 Date & Time: May 20 2025 7:30 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $76
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 21 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 22 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 23 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 24 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 25 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 30 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: May 31 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 01 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 03 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 04 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 04 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $154
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 05 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 06 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 06 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 06 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $105
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 07 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $81
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 08 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 08 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 09 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 10 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 11 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 11 2025 8:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Byham Theater
 Price: Prices from $120
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 13 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 14 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 15 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 20 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 20 2025 8:00 PM
 Location: 15212, Pittsburgh, PA, US
 Arena: Stage AE
 Price: Prices from $230
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 21 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 21 2025 7:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 22 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 22 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $264
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 27 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 27 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $300
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 28 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 28 2025 7:00 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $128
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 29 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 29 2025 2:30 PM
 Location: 15222, Pittsburgh, PA, US
 Arena: Heinz Hall
 Price: Prices from $300
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jun 30 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 01 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 02 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 18 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 19 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 21 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 22 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 23 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 24 2025 7:00 PM
 Location: 15261, Pittsburgh, Pennsylvania, US
 Arena: Petersen Events Center
 Price: Prices from $110
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 25 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 26 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Jul 27 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 04 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 05 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 06 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 07 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 08 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 09 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 10 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 18 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 19 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 22 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $40
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 23 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 24 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 29 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $319
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Aug 30 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $319
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 02 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 03 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 04 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 05 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 06 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 07 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 15 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 16 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: 
 Date & Time: Sep 17 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $51
-
 --------------------------------------------------
-
 Title: Athletics at
 Date & Time: Sep 19 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Athletics at
 Date & Time: Sep 20 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
 Title: Athletics at
 Date & Time: Sep 21 2025 1:00 PM
 Location: 15212, Pittsburgh, Pennsylvania, US
 Arena: PNC Park
 Price: Prices from $25
-
 --------------------------------------------------
-
