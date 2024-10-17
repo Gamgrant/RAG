@@ -1,7 +1,10 @@
+=section_start=
+=section name="Pittsburgh City Paper events"
+--------------------------------------------------
 Title: 4th Annual "PAWS Against Domestic Violence" Pet Walk for Crisis Center North
-Date and Time: Sun., Oct. 13, 10 a.m.-1 p.m.
+Date & Time: Sun., Oct. 13, 10 a.m.-1 p.m.
 Location 1: North Park, Harmar Pavilion
-Location 2: S. Ridge Drive, Allison Park
+Location: S. Ridge Drive, Allison Park
 Price: $50 Walk w/Pet w/Swag Bag, $30 Walk w/Pet Only
 Type of Event: Fundraisers
 Description: Crisis Center North's PAWS for Empowerment program welcome you and your pet to participate in the 4th Annual "Paws Against Domestic Violence" Pet Walk event!
@@ -9,9 +12,9 @@ Let's go for a walk/run! Grab your tennis shoes and a pet and join us at North P
 724-601-3239
 --------------------------------------------------
 Title: Ritual Sound Movement Healing Art - Wellness Workshop & Quarterly Immersion
-Date and Time: Sun., Oct. 20, 10:30 a.m.-3 p.m.
+Date & Time: Sun., Oct. 20, 10:30 a.m.-3 p.m.
 Location 1: Wightman School
-Location 2: 5604 Solway, Pittsburgh
+Location: 5604 Solway, Pittsburgh
 Price: $10 +
 Type of Event: Dance, World, Fundraisers
 Description: Join us for an interactive, family-friendly day of healing as we uplift our minds, bodies, and hearts through a sampling of wellness practices that are rooted in music, movement, and creative expression. **
@@ -22,18 +25,18 @@ If you would like to support this event but cannot attend in person, please cons
 4125845837
 --------------------------------------------------
 Title: Moriarty Science Seminar: Plant Machine
-Date and Time: Mon., Oct. 7, 12-1 p.m.
+Date & Time: Mon., Oct. 7, 12-1 p.m.
 Location 1: Carnegie Museum of Natural History - Earth Theater
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: Free
 Type of Event: Lecture
 Description: Learn about scientific discoveries directly from the experts in the field.
 4126223131
 --------------------------------------------------
 Title: AIA Pittsburgh's Third Annual Pittsburgh Architecture Week
-Date and Time: Mon., Oct. 7
+Date & Time: Mon., Oct. 7
 Location 1: Benedum Trees Building
-Location 2: 223 Fourth Avenue, Pittsburgh
+Location: 223 Fourth Avenue, Pittsburgh
 Price: events range from free to $20
 Type of Event: Other Stuff
 Description: Pittsburgh Architecture Week shares how architects – and all who design and build our spaces and places – create our built environment, how architecture impacts everyone’s daily lives, and highlights our region’s unique architectural identity.
@@ -41,18 +44,18 @@ Please check out the 2024 line up of workshops, panels and tours that celebrate 
 unknown
 --------------------------------------------------
 Title: No Survivors Tour w/ The Convalescence & Voraath
-Date and Time: Mon., Oct. 7, 8-11 p.m.
+Date & Time: Mon., Oct. 7, 8-11 p.m.
 Location 1: Hard Rock Cafe
-Location 2: 230 West Station Square Drive, Pittsburgh
+Location: 230 West Station Square Drive, Pittsburgh
 Price: $15.00
 Type of Event: Metal
 Description: Hard Rock Cafe and CE Presents welcome No Survivors Tour featuring The Convalescence and Voraath with special guests on Monday, October 7, 2024! Entry and seating for event attendees begin at 7:00 PM. General Admission tickets are required for entry and are available for purchase at Eventbrite.com. Seating within the event is available on a first-come, first-served basis. General Admission tickets do not reserve a seat. If you require accessible seating accommodations, you must notify the venue in advance. This event is open to all ages with alcohol available for purchase to attendees ages 21 and over. Valid identification is
 412-481-7625
 --------------------------------------------------
 Title: Carnegie Mellon Opera: Transformations
-Date and Time: Mon., Oct. 7, 8-11 p.m.
+Date & Time: Mon., Oct. 7, 8-11 p.m.
 Location 1: Chosky Theatre, CMU
-Location 2: 4908 Forbes Ave., Pittsburgh
+Location: 4908 Forbes Ave., Pittsburgh
 Price: $10 / $5
 Type of Event: Opera
 Description: Carnegie Mellon Opera: Transformations
@@ -72,9 +75,9 @@ call box office for info 412-268-2407
 412-268-2407
 --------------------------------------------------
 Title: Content Writing Service | Affordable Price | Cheap Content Writers
-Date and Time: First Monday-Sunday of every month, 12 p.m.
+Date & Time: First Monday-Sunday of every month, 12 p.m.
 Location 1: Pittsburgh Writing Exchange
-Location 2: 321 S. Graham St, Pittsburgh
+Location: 321 S. Graham St, Pittsburgh
 Price: Price not available
 Type of Event: Community
 Description: I am professional content writer with 5 years experience working currently with content writing service.
@@ -87,54 +90,54 @@ Get high quality content writing services for really affordable price. Hire the 
 Content Writers With
 --------------------------------------------------
 Title: Traditional Irish Session Music
-Date and Time: First Monday of every month, 7:30 p.m.
+Date & Time: First Monday of every month, 7:30 p.m.
 Location 1: J. Gough's Tavern
-Location 2: 4213 Murray Ave, Pittsburgh
+Location: 4213 Murray Ave, Pittsburgh
 Price: Free
 Type of Event: Acoustic
 Description: Welcome to all skill levels.
 412-315-7029
 --------------------------------------------------
 Title: 17th International Exhibition of Botanical Art & Illustration
-Date and Time: Mondays-Fridays, 9 a.m.-5 p.m. Continues through Dec. 17
+Date & Time: Mondays-Fridays, 9 a.m.-5 p.m. Continues through Dec. 17
 Location 1: Hunt Institute for Botanical Documentation
-Location 2: 5000 Forbes Ave., Pittsburgh
+Location: 5000 Forbes Ave., Pittsburgh
 Price: Free
 Type of Event: Exhibits
 Description: The Hunt Institute for Botanical Documentation presents its “17th International Exhibition of Botanical Art & Illustration,” which includes 43 artworks by 43 artists, representing 19 countries (Australia, Chile, China, Colombia, England, Hungary, India, Italy, Japan, Netherlands, Portugal, Romania, Russia, Scotland, Singapore, South Korea, Turkey, Ukraine and the United States). Join us Thursday, 17 October, 6:00-8:00 p.m. for the reception.
 412-268-2434
 --------------------------------------------------
 Title: White Noise
-Date and Time: Mondays-Fridays, 10 a.m.-4:30 p.m. Continues through Nov. 5
+Date & Time: Mondays-Fridays, 10 a.m.-4:30 p.m. Continues through Nov. 5
 Location 1: Robert Morris University Media Arts Gallery
-Location 2: 6001 University Blvd, Wheatley Center, Moon Township
+Location: 6001 University Blvd, Wheatley Center, Moon Township
 Price: Free
 Type of Event: Visual Art
 Description: "White Noise" by Kerry Skarbakka is a powerful exploration of toxic masculinity, an issue of great relevance in today's divided socio-political landscape. Originally conceived before the 2016 elections out of concern for his newborn son under a Trump presidency, this multi-media installation serves as both a warning and a reflection as we approach the 2024 elections. The exhibition features large format photographs, video, and sculptures, portraying a fictional white male's descent rooted in Skarbakka’s own experiences, touching on themes like anti-government sentiment, tribalism, and religious extremism.
 412-397-4052
 --------------------------------------------------
 Title: 芸[Gei]: The Beauty of Ephemeral and Eternal
-Date and Time: Mondays-Saturdays, 10 a.m.-5 p.m. Continues through Jan. 18
+Date & Time: Mondays-Saturdays, 10 a.m.-5 p.m. Continues through Jan. 18
 Location 1: Contemporary Craft
-Location 2: 5645 Butler Street, Pittsburgh
+Location: 5645 Butler Street, Pittsburgh
 Price: Free
 Type of Event: Exhibits
 Description: In its new exhibition, “芸[Gei]: The Beauty of Ephemeral and Eternal”, Contemporary Craft invites viewers to explore the captivating duality between the beauty of Ikebana – traditional Japanese flower arrangement – and the eternal nature of well-crafted objects. Four artists engage with members of Sogetsu Ikebana Pittsburgh, sparking contemplation of time, materiality, and heritage. This dialogue illuminates profound connections in Japanese culture that are woven throughout these art forms, harmonizing impermanence and eternity in Japan’s cultural tapestry - bridging past, present, and future. Featured artists include Tadao Arimoto, Carol Kumata, Miwa Neishi, and Yoko Sekino-Bové.
 4122617003
 --------------------------------------------------
 Title: Pretzels For Pups!
-Date and Time: Through Oct. 31, 11 a.m.-11 p.m.
+Date & Time: Through Oct. 31, 11 a.m.-11 p.m.
 Location 1: Hofbrauhaus Pittsburgh Brewery & Restaurant
-Location 2: 2705 S. Water Street, Pittsburgh
+Location: 2705 S. Water Street, Pittsburgh
 Price: Free
 Type of Event: Other Music
 Description: Benefitting The UPMC Children's Hospital Foundation
 4122242328
 --------------------------------------------------
 Title: Pittsburgh Scavenger Hunt: Pittsburgh’s Strength
-Date and Time: Ongoing, 8-10 a.m.
+Date & Time: Ongoing, 8-10 a.m.
 Location 1: Let's Roam Customer Support
-Location 2: 414 Grant St, Pittsburgh, PA 15219, USA, Pittsburgh
+Location: 414 Grant St, Pittsburgh, PA 15219, USA, Pittsburgh
 Price: $12.99/player
 Type of Event: Outside
 Description: Where three rivers meet, you'll find Pennsylvania's great Steel Town. On this fun-filled Pittsburgh scavenger hunt, make a loop around downtown in search of storied buildings, great green spaces, and wondrous sculptures.
@@ -147,18 +150,18 @@ Each person will have an interactiv
 8332027626
 --------------------------------------------------
 Title: New Choices Career Development Classes
-Date and Time: Mondays-Fridays, 9:30 a.m.-12:30 p.m.
+Date & Time: Mondays-Fridays, 9:30 a.m.-12:30 p.m.
 Location 1: Pennsylvania Women Work
-Location 2: 650 Smithfield Street, Suite 520, Pittsburgh
+Location: 650 Smithfield Street, Suite 520, Pittsburgh
 Price: FREE
 Type of Event: Other Stuff
 Description: New Choices is a FREE, comprehensive career program, where you'll learn job search and interview skills, goal-setting, and the confidence to succeed. You’ll update your resume, refresh your computer skills, and learn conflict resolution, budgeting, and time management – plus individualized career coaching and job search assistance. Day/evening classes available starting soon Downtown, or at extended sites throughout Pittsburgh. Whether you're starting out or re-entering the workforce, our 20 years of expertise will make you a stronger candidate. New Choices has helped over 55,000 people find living-wage jobs and build lasting careers! Call to register or for more information!
 412-742-4362
 --------------------------------------------------
 Title: Puzzling Adventures Scavenger Hunt
-Date and Time: Ongoing, 10 a.m.-8 p.m.
+Date & Time: Ongoing, 10 a.m.-8 p.m.
 Location 1: Puzzling Adventures Start & Finish Location
-Location 2: 629 Smithfield St, Pittsburgh
+Location: 629 Smithfield St, Pittsburgh
 Price: $39.95 with $10 EVENTPASS - price per team
 Type of Event: Games, Kidstuff, Outside
 Description: Consistently rated the best local scavenger hunt since 2016!
@@ -167,9 +170,9 @@ Enter the code EVENTPASS on the payment page for a $10 discount!
 8884338966
 --------------------------------------------------
 Title: Spellbound Escape Room
-Date and Time: Ongoing, 12-9 p.m.
+Date & Time: Ongoing, 12-9 p.m.
 Location 1: 60 Minute Missions Escape Room
-Location 2: 116 E Pittsburgh Street, Lower Level, Greensburg
+Location: 116 E Pittsburgh Street, Lower Level, Greensburg
 Price: $25
 Type of Event: Games
 Description: Becoming a wizard isn’t easy. You’ve traveled to the magic school and taken the admissions exam, but didn’t pass. As a result, a horrible curse has been placed on you to ensure you don’t attempt further magic as a muggle.
@@ -177,43 +180,43 @@ Your train ride home has been summoned, but the door to the wizarding world is w
 724-383-6066
 --------------------------------------------------
 Title: Todd and Dale
-Date and Time: Fridays, 8:30-10:30 p.m.
+Date & Time: Fridays, 8:30-10:30 p.m.
 Location 1: Bar 3 Millvale
-Location 2: 217 North Ave., Millvale
+Location: 217 North Ave., Millvale
 Price: FREE
 Type of Event: Acoustic
 Description: 412-408-3870
 --------------------------------------------------
 Title: Punk Night
-Date and Time: Fridays, 10 p.m.-2:30 a.m.
+Date & Time: Fridays, 10 p.m.-2:30 a.m.
 Location 1: Dee's Cafe
-Location 2: 1316 E. Carson St., Pittsburgh
+Location: 1316 E. Carson St., Pittsburgh
 Price: No Cover
 Type of Event: DJs
 Description: 412-431-1314
 --------------------------------------------------
 Title: Friday Nights w/ DJ Midas
-Date and Time: Fridays, 10 p.m.-2 a.m.
+Date & Time: Fridays, 10 p.m.-2 a.m.
 Location 1: The Goldmark
-Location 2: 4517 Butler St, Pittsburgh
+Location: 4517 Butler St, Pittsburgh
 Price: Free Before 10pm - $5 After 10pm
 Type of Event: DJs
 Description: Every Friday night DJ Midas takes over the DJ booth at The Goldmark for one of the wildest parties in the city. Expect to hear everything from the latest hits to throwbacks from previous eras, mixed up by one of Pittsburgh's best DJs. Dancing shoes required.
 412-688-8820
 --------------------------------------------------
 Title: Park 'til Dark - North Park
-Date and Time: Sat., Oct. 12, 8:30 a.m.-8:30 p.m.
+Date & Time: Sat., Oct. 12, 8:30 a.m.-8:30 p.m.
 Location 1: Park 'til Dark - North Park
-Location 2: 303 Pearce Mill Road, Allison Park
+Location: 303 Pearce Mill Road, Allison Park
 Price: Free: USD 0.00
 Type of Event: Community
 Description: Get to know more about North Park and the work of the Allegheny County Parks Foundation by attending free activities on October 12. Activities are for individuals or groups of all ages and abilities!
 724-327-7627
 --------------------------------------------------
 Title: 5k Beer Run x Inner Groove | 2024 PA Brewery Running Series
-Date and Time: Sat., Oct. 12, 11 a.m.-1 p.m.
+Date & Time: Sat., Oct. 12, 11 a.m.-1 p.m.
 Location 1: Inner Groove Brewing
-Location 2: 751 E. Railroad Ave., Pittsburgh
+Location: 751 E. Railroad Ave., Pittsburgh
 Price: 32.00
 Type of Event: Sports
 Description: Lace up your running shoes - we've mapped out a 5k-ish course that starts and ends at this awesome taproom in Verona. Run, walk or jog before celebrating with a locally-made craft beverage at the finish line.
@@ -221,27 +224,27 @@ Our mantra is be active, have fun, give back! Proceeds support 412 Food Rescue
 0000000000
 --------------------------------------------------
 Title: Guardian Storage Fall 2024 Free Shred-It Event
-Date and Time: Sat., Oct. 12, 11 a.m.-2 p.m.
+Date & Time: Sat., Oct. 12, 11 a.m.-2 p.m.
 Location 1: Multiple Guardian Storage Locations
-Location 2: 1300 Lebanon Church Rd., Pleasant Hills
+Location: 1300 Lebanon Church Rd., Pleasant Hills
 Price: Free
 Type of Event: Other Stuff
 Description: As a thank you to our customers and community, Guardian Storage is hosting a series of FREE Shred-It events throughout our Pittsburgh locations. These events provide a safe way to dispose of unwanted files, papers and documents free of charge and no purchase or commitment of any kind. The only request is a voluntary donation of cash or unopened school supplies at the event to help support The Education Partnership. Please limit to the equivalent of five file boxes' worth of paper waste and remove file clips before arrival.
 (412) 826-7368
 --------------------------------------------------
 Title: Beats & Eats
-Date and Time: Sat., Oct. 12, 12-5 p.m.
+Date & Time: Sat., Oct. 12, 12-5 p.m.
 Location 1: Railroad Park
-Location 2: 736 E. Railroad Ave., Verona
+Location: 736 E. Railroad Ave., Verona
 Price: free
 Type of Event: Community
 Description: The WPCA Academy in Verona is hosting "Beats & Eats" a music and food festival at Railroad Park in Verona, PA. Come out and enjoy the music of RMR Jazz, the CMU Bagpipers, the Oakmont Lions Club Band and the WPCA Orchestra. There will be a costumed parade contest and a pumpkin decorating contest with prizes as well. Food and drinks include Cool Beans Taco Truck and Inner Groove Brewing. Please see our Facebook page @wpcaacademy and our website at www.wpcaacademy.org for more information.
 724 816 8662
 --------------------------------------------------
 Title: Hands-Only CPR Training
-Date and Time: Sat., Oct. 12, 1-3 p.m.
+Date & Time: Sat., Oct. 12, 1-3 p.m.
 Location 1: Andrew Carnegie Free Library Music Hall
-Location 2: 300 Beechwood Avenue, Carnegie
+Location: 300 Beechwood Avenue, Carnegie
 Price: Free
 Type of Event: Lecture
 Description: When a person has a cardiac arrest, survival depends on immediately receiving CPR from someone nearby. Hands-Only CPR has been shown to be as effective in the first few minutes as conventional CPR for cardiac arrest at home, at work, or in public.
@@ -250,9 +253,9 @@ A training session for ages 18+ starts at 1:00 PM, and a training for ages 12-17
 412-276-3456
 --------------------------------------------------
 Title: Thunder in the Hollow
-Date and Time: Sat., Oct. 12, 4-11:45 p.m.
+Date & Time: Sat., Oct. 12, 4-11:45 p.m.
 Location 1: Listie Grove
-Location 2: 404 Village Rd, Frieden
+Location: 404 Village Rd, Frieden
 Price: Admission: Just $5 Free for anyone under 18!
 Type of Event: Fundraisers, Community
 Description: Truck, Tractor, & Semi-Truck Pull
@@ -266,36 +269,36 @@ Don’t miss out – bring the family and enjoy the action!
 814-279-9420
 --------------------------------------------------
 Title: Candlelight: A Tribute to Coldplay
-Date and Time: Sat., Oct. 12, 6:30-7:45 p.m.
+Date & Time: Sat., Oct. 12, 6:30-7:45 p.m.
 Location 1: Trinity Episcopal Cathedral
-Location 2: 328 Sixth Avenue, Pittsburgh
+Location: 328 Sixth Avenue, Pittsburgh
 Price: $34.00
 Type of Event: Classical
 Description: ⭐ Candlelight concerts bring the magic of a live, multi-sensory musical experience to awe-inspiring locations like never seen before in Pittsburgh
 402-249-2445
 --------------------------------------------------
 Title: Steel City Squares October Square Dance
-Date and Time: Sat., Oct. 12, 7-11 p.m.
+Date & Time: Sat., Oct. 12, 7-11 p.m.
 Location 1: Shiloh Center
-Location 2: 3832 Mintwood St, Pittsburgh
+Location: 3832 Mintwood St, Pittsburgh
 Price: $15
 Type of Event: Dance, Community, Acoustic
 Description: 7pm Doors + potluck starts + open old-time jam (bring an instrument or just listen!). 8-11pm Dance. Caller: Annick Odom (Morgantown, WV). Band: Mary Linscheid & Friends. Beginner- and family-friendly! Dances are taught and all are welcome. No experience or partner necessary! BYOB (inc. water) and something for the potluck if you like. $15 suggested donation (no one turned away for lack of funds), cash or Venmo, kids under 12 are free.
 (412) 681-2141
 --------------------------------------------------
 Title: Pittsburgh Moving Picture Festival: Thriller Picture Show 2024
-Date and Time: Sat., Oct. 12, 7-11 p.m., Sun., Oct. 13, 2:30-11 p.m., Mon., Oct. 14, 2:30-10 p.m. and Thu., Oct. 24, 6-10 p.m.
+Date & Time: Sat., Oct. 12, 7-11 p.m., Sun., Oct. 13, 2:30-11 p.m., Mon., Oct. 14, 2:30-10 p.m. and Thu., Oct. 24, 6-10 p.m.
 Location 1: The Lindsay Theater and Cultural Center
-Location 2: 418 Walnut Street, Sewickley
+Location: 418 Walnut Street, Sewickley
 Price: All-Festival Passes: $45; Individual Days: $15
 Type of Event: Screen
 Description: The Pittsburgh Moving Picture Festival's 2024 Thriller Picture Show will take place at The Lindsay Theater and Cultural Center in Sewickley from Oct. 12-14, with a final night of screenings set for Oct. 24. The Thriller Picture Show is supported by the George A. Romero Foundation and features a slew of independently produced feature and short film screenings. All-Festival Passes and tickets to individual days/films can be purchased via The Lindsay's website.
 4122598542
 --------------------------------------------------
 Title: Fleetwood Gold LIVE in Oakmont, Pennsylvania
-Date and Time: Sat., Oct. 12, 7:30-9:30 p.m.
+Date & Time: Sat., Oct. 12, 7:30-9:30 p.m.
 Location 1: The Oaks Theater
-Location 2: 310 Allegheny River Boulevard, Oakmont
+Location: 310 Allegheny River Boulevard, Oakmont
 Price: USD 20.00 - USD 25.00
 Type of Event: Pop
 Description: Fleetwood Gold, America's #1 Fleetwood Mac Experience, is the most followed Fleetwood Mac tribute band in the Midwest, performing for more than 50,000 fans in the last twelve months. The band is led by two-time national blues guitar champion and as lead singer for Blood, Sweat and Tears, Chris Shutters (Lyndsey) and Columbus, Ohio-based singers/songwriters Erika Prehm (Stevie) and Sara Reat (Christine).
@@ -309,9 +312,9 @@ Reserved Table Seating: USD 25.00
 6142578107
 --------------------------------------------------
 Title: Totally 80s at the Hollywood Casino at the Meadows
-Date and Time: Sat., Oct. 12, 8-11:55 p.m.
+Date & Time: Sat., Oct. 12, 8-11:55 p.m.
 Location 1: Hollywood Casino at the Meadows
-Location 2: 210 Racetrack Rd., Washington
+Location: 210 Racetrack Rd., Washington
 Price: $0-$15
 Type of Event: Cover Band
 Description: 🎵 Prepare to step back in time and unleash your inner 80s superstar at the Hollywood Casino at the Meadows! 🌟 Join the Totally 80s party in the H-Lounge for an electrifying night where you'll rock the dance floor, win big, and create unforgettable memories in the most iconic decade of all! 🎉🕺
@@ -320,9 +323,9 @@ Make it a special night by purchasing a VIP ticket which includes guaranteed sea
 724-503-1201
 --------------------------------------------------
 Title: Hard Day's Night The Beatles Tribute
-Date and Time: Sat., Oct. 12, 8-10:30 p.m.
+Date & Time: Sat., Oct. 12, 8-10:30 p.m.
 Location 1: The Lamp Theatre
-Location 2: 222 Main Street, Irwin
+Location: 222 Main Street, Irwin
 Price: 32
 Type of Event: Rock
 Description: On sale Friday, July 12 @10am! Visit https://www.lamptheatre.org/hard-days-night or call 724-367-4000 to purchase.
@@ -331,9 +334,9 @@ Since 1996, Hard Day's Night has been entertaining Beatles fans across the count
 724-367-4000
 --------------------------------------------------
 Title: Sun Kil Moon
-Date and Time: Sat., Oct. 12, 8 p.m.
+Date & Time: Sat., Oct. 12, 8 p.m.
 Location 1: The Funhouse @ Mr. Smalls
-Location 2: 400 Lincoln Ave, Millvale
+Location: 400 Lincoln Ave, Millvale
 Price: Advance: $20.00 - Day Of Show: $24.00
 Type of Event: Indie
 Description: Wake Up On Fire! Records & Mr. Smalls Presents
@@ -345,9 +348,9 @@ This Event Is All Ages
 6034337465
 --------------------------------------------------
 Title: The Screening Room
-Date and Time: Sat., Oct. 12, 8-9:30 p.m.
+Date & Time: Sat., Oct. 12, 8-9:30 p.m.
 Location 1: Bloomfield-Garfield Corporation Activity Center
-Location 2: 113 N. Pacific Ave, Pittsburgh
+Location: 113 N. Pacific Ave, Pittsburgh
 Price: $10
 Type of Event: Comedy
 Description: 412 Improv hosts an improv comedy show like no other, where the magic of television meets the spontaneity of live performance. In this show, the audience holds the remote control, influencing scenes the cast will bring to life on stage.
@@ -355,9 +358,9 @@ Whether it’s a soap opera, crime drama, or sitcom no genre is off limits. Scre
 4124416950
 --------------------------------------------------
 Title: Kashmir Featuring Jean Violet- The Spirit Of A Live Led Zeppelin Performance
-Date and Time: Fri., Oct. 18, 8-10:30 p.m.
+Date & Time: Fri., Oct. 18, 8-10:30 p.m.
 Location 1: The Lamp Theatre
-Location 2: 222 Main Street, Irwin
+Location: 222 Main Street, Irwin
 Price: $39
 Type of Event: Rock
 Description: Jean Violet, founder, creator and lead vocalist of the renowned Led Zeppelin tribute KASHMIR is both proud and excited to announce the next chapter in his musical journey. After 20+ years as frontman of the premiere Led Zeppelin tribute in the US, and with new blood and a renewed commitment to excellence, Jean will bring the mojo and majesty of “Led Zep” coast to coast to a theater or arena near you!
@@ -365,27 +368,27 @@ Introducing KASHMIR featuring Jean Violet – The Spirit of Led Zeppelin Live. E
 724-367-4000
 --------------------------------------------------
 Title: Bastard Bearded Irishmen
-Date and Time: Fri., Oct. 18, 8-11 p.m.
+Date & Time: Fri., Oct. 18, 8-11 p.m.
 Location 1: Hard Rock Cafe
-Location 2: 230 West Station Square Drive, Pittsburgh
+Location: 230 West Station Square Drive, Pittsburgh
 Price: $15.00
 Type of Event: Rock
 Description: Hard Rock Cafe and CE Presents welcome Bastard Bearded Irishmen!
 412-481-7625
 --------------------------------------------------
 Title: The Right TurnClyde Experience "Unplugged" show at Helltown - Butler
-Date and Time: Fri., Oct. 18, 9 p.m.
+Date & Time: Fri., Oct. 18, 9 p.m.
 Location 1: Helltown Taproom - Butler
-Location 2: 137 Fairway Lain, Butler
+Location: 137 Fairway Lain, Butler
 Price: No Cover
 Type of Event: Cover Band
 Description: The Right TurnClyde Experience (unplugged show) brings their High Energy Rock and Roll show to Butler PA as we hit the Helltown Taproom Butler.
 724.481.1252
 --------------------------------------------------
 Title: Silence of the Gams: Velvet Hearts Boo-lesque
-Date and Time: Fri., Oct. 18, 9-10:30 p.m.
+Date & Time: Fri., Oct. 18, 9-10:30 p.m.
 Location 1: Kingfly Spirits
-Location 2: 2613 Smallman St., Pittsburgh
+Location: 2613 Smallman St., Pittsburgh
 Price: 20.00
 Type of Event: Burlesque
 Description: Join us in our Loft for Event #4 of our 13 Nights of Halloween series ~ an evening of burlesque that is sure to send thrills down your spine!
@@ -393,18 +396,18 @@ The Velvet Hearts bring a sinfully delicious revue called "Silence of the Gams" 
 We’ll start checking guests at 8:00pm, grab a cocktail and find your seat before the show starts at 9:00. This event will take place in Kingfly's spacious, 5,000 square foot Loft. 21+
 --------------------------------------------------
 Title: Macbeth
-Date and Time: Fridays, Saturdays, 7:30-10:30 p.m. and Sundays, 2:30-5:30 p.m. Continues through Oct. 27
+Date & Time: Fridays, Saturdays, 7:30-10:30 p.m. and Sundays, 2:30-5:30 p.m. Continues through Oct. 27
 Location 1: The Seton Center
-Location 2: 1900 Pioneer Ave, Pittsburgh
+Location: 1900 Pioneer Ave, Pittsburgh
 Price: $10-$13
 Type of Event: Theater
 Description: "Brutal actions have brutal consequences. The political and natural world is broken and the Macbeths seize this opportunity to rise through the ranks and control their destiny. But their ambitions unravel into a living nightmare in a world where boundaries are paper thin - between the natural and supernatural, love and hate, joy and despair." - Royal Shakespeare Company
 412.561.8400
 --------------------------------------------------
 Title: Open Mic Night
-Date and Time: Third Friday of every month, 8-11 p.m.
+Date & Time: Third Friday of every month, 8-11 p.m.
 Location 1: Community Forge
-Location 2: 1256 Franklin Ave, Pittsburgh
+Location: 1256 Franklin Ave, Pittsburgh
 Price: FREE
 Type of Event: Open Stage
 Description: A free night of music, poetry, comedy, and more! Whether you're a seasoned performer or trying something new, our stage is open to all talents. Show off your skills, support local artists, or simply enjoy the show - the choice is yours!
@@ -413,9 +416,9 @@ Sign-ups to perform are in-person only, but bop on over to the registration here
 412-501-2055
 --------------------------------------------------
 Title: A Factory Night
-Date and Time: Third Friday of every month, 9 p.m.-2 a.m.
+Date & Time: Third Friday of every month, 9 p.m.-2 a.m.
 Location 1: Whisper Nest
-Location 2: 313 North Ave, Millvale
+Location: 313 North Ave, Millvale
 Price: Free
 Type of Event: DJs
 Description: Every third Friday at the Whisper Nest, DJs Poptone and Brian Siewiorek bring you an eclectic set of classic and modern post-punk, synthpop, goth, Britpop, and other related sounds, culled from the depths of their wax collections. Expect hits and deep cuts from a wide range of bands—from Joy Division to Jesus & Mary Chain; Kate Bush to Kraftwerk; the Cramps to the Cranberries; Echo & the Bunnymen to Elastica!
@@ -423,9 +426,9 @@ As always, Factory is a FREE event, so be sure to pass along the savings to the 
 4123375970
 --------------------------------------------------
 Title: WYEP Hellbender Ball: Night of the Living Hellbender
-Date and Time: Sat., Oct. 19, 7-11 p.m.
+Date & Time: Sat., Oct. 19, 7-11 p.m.
 Location 1: Thunderbird Café & Music Hall
-Location 2: 4053 Butler Street, Pittsburgh
+Location: 4053 Butler Street, Pittsburgh
 Price: $30
 Type of Event: Cover Band
 Description: WYEP's Pittsburgh Music Costume Party returns! Join us in your best costume on Saturday, October 19th for The Hellbender Ball: Night of the Living Hellbender.
@@ -438,36 +441,36 @@ This year's lineup includes:
 (412) 682-0177
 --------------------------------------------------
 Title: Murder at Skull Manor: Murder Mystery Dinner
-Date and Time: Sat., Oct. 19, 5-9 a.m.
+Date & Time: Sat., Oct. 19, 5-9 a.m.
 Location 1: Saxonburg Fire Hall
-Location 2: 165 Pittsburgh St., Saxonburg
+Location: 165 Pittsburgh St., Saxonburg
 Price: 40.00
 Type of Event: Games, Food & Drink Event
 Description: Join us this October as we travel back in time to the era of flappers, speakeasies, and jazz to the roaring ‘20s to solve a murder while attending the annual Skull Manor Ball, hosted by the Great Lord Hatsby. Enjoy a night of unconventional Halloween fun as you get to be a character IN the murder mystery, trying to figure out whodunit! This event goes beyond dinner theater and allows you to be right in the action. Dinner included, 21+ event, cash bar, basket raffle, and more! (All proceeds benefit J and J Farms Animal Sanctuary)
 609-276-9819
 --------------------------------------------------
 Title: Powdermill Avian Research Center Open House
-Date and Time: Sat., Oct. 19, 8-11 a.m.
+Date & Time: Sat., Oct. 19, 8-11 a.m.
 Location 1: Powdermill Nature Reserve
-Location 2: 1795 Route 381, Rector
+Location: 1795 Route 381, Rector
 Price: Free
 Type of Event: Exhibits
 Description: Join us for an open house at the Powdermill Avian Research Center (PARC)! Although PARC is operational year-round, it typically is closed to the public. Stop by anytime during the Open House to get a behind-the-scenes look at what some of our scientists are up to. You’ll be able to see the bird banding processes up close, learn about how we catch them, find out what data is recorded, etc. This event is free! But please RSVP!
 4126223131
 --------------------------------------------------
 Title: Natural Dye: workshop in yarn
-Date and Time: Sat., Oct. 19, 10 a.m.-3 p.m.
+Date & Time: Sat., Oct. 19, 10 a.m.-3 p.m.
 Location 1: Diane Morrisey
-Location 2: 9519 Old Perry Highway, Pittsburgh
+Location: 9519 Old Perry Highway, Pittsburgh
 Price: 40.00
 Type of Event: Other Stuff
 Description: This casual outdoors workshop will give you a glimpse at the world of exciting, accessible, and sustainable natural dyes, with a focus on yarn. We will discuss and explore different techniques to accomplish your most desired colors. Everyone will leave with a bouquet of yarn samples and instructions to create your own colorful adventure at home. ages 15 & up
 7167251639
 --------------------------------------------------
 Title: 🚲 11th Annual Women & Non-Binary Bike Summit
-Date and Time: Sat., Oct. 19, 10 a.m.-4 p.m.
+Date & Time: Sat., Oct. 19, 10 a.m.-4 p.m.
 Location 1: Hosanna House
-Location 2: 807 Wallace Avenue, Wilkinsburg
+Location: 807 Wallace Avenue, Wilkinsburg
 Price: $25
 Type of Event: Community, Other Stuff, Outside
 Description: Join us for an engaging, one-day event with workshops, presentations, and activities for boosting skills and encouraging women and non-binary representation in cycling!
@@ -475,18 +478,18 @@ Our goal is to empower trans and cis women, non-binary, genderqueer, agender and
 The day is full of programming that accommodates everyone, no matter where you are in your cycling journey. This year’s event will focus on community building, with all sessions focusing on learning from others, sharing our lived experiences, and building our confidence while out riding.
 --------------------------------------------------
 Title: Bellevue - 7th Annual House Tour
-Date and Time: Sat., Oct. 19, 11 a.m.-4 p.m.
+Date & Time: Sat., Oct. 19, 11 a.m.-4 p.m.
 Location 1: Bellevue United Presbyterian Church
-Location 2: 457 Lincoln Ave., Bellevue
+Location: 457 Lincoln Ave., Bellevue
 Price: Early bird: $35 / After August 18th: $45
 Type of Event: Community
 Description: Come join us for our 7th annual House Tour featuring some of Bellevue’s most uniquely beautiful homes! But that’s not all – this year we have some added surprises that will give you a taste of what it’s truly like to live in our little community.
 412-400-9022
 --------------------------------------------------
 Title: Owl-O-Ween
-Date and Time: Saturdays, Sundays, 11 a.m.-4 p.m. Continues through Oct. 27
+Date & Time: Saturdays, Sundays, 11 a.m.-4 p.m. Continues through Oct. 27
 Location 1: National Aviary
-Location 2: 700 Arch Street, Pittsburgh
+Location: 700 Arch Street, Pittsburgh
 Price: Included with Admission
 Type of Event: Kidstuff
 Description: Trick or Treat!
@@ -494,18 +497,18 @@ Bring the whole family to the National Aviary to celebrate mysterious creatures 
 4122589445
 --------------------------------------------------
 Title: Guardian Storage Fall 2024 Free Shred-It Event
-Date and Time: Sat., Oct. 19, 11 a.m.-2 p.m.
+Date & Time: Sat., Oct. 19, 11 a.m.-2 p.m.
 Location 1: Guardian Storage
-Location 2: 4711 William Penn Highway, Monroeville
+Location: 4711 William Penn Highway, Monroeville
 Price: Free
 Type of Event: Other Stuff
 Description: As a thank you to our customers and community, Guardian Storage is hosting a series of FREE Shred-It events throughout our Pittsburgh locations. These events provide a safe way to dispose of unwanted files, papers and documents free of charge and no purchase or commitment of any kind. The only request is a voluntary donation of cash or unopened school supplies at the event to help support The Education Partnership. Please limit to the equivalent of five file boxes' worth of paper waste and remove file clips before arrival.
 412-275-4429
 --------------------------------------------------
 Title: Norbert's Haunted Festival
-Date and Time: Sat., Oct. 19, 12-4 p.m.
+Date & Time: Sat., Oct. 19, 12-4 p.m.
 Location 1: Norbert Personal Care
-Location 2: 2413 St. Norbert St., PITTSBURGH
+Location: 2413 St. Norbert St., PITTSBURGH
 Price: Free
 Type of Event: Community
 Description: Save the date! Free entry to all who dare!
@@ -514,9 +517,9 @@ For more information, call 412-885-5202
 412-885-5202
 --------------------------------------------------
 Title: God Hates Unicorns, Stereo Scandal and Love Dumpster Halloween Bash!
-Date and Time: Sat., Oct. 19, 12 p.m.-12 a.m.
+Date & Time: Sat., Oct. 19, 12 p.m.-12 a.m.
 Location 1: Obey House
-Location 2: 1337 Steuben Street, Crafton
+Location: 1337 Steuben Street, Crafton
 Price: No Cover!
 Type of Event: Rock
 Description: All ghouls, goblins, beasties and terrors - make your way to Obey House for a banger! There'll be hell raising rock from Love Dumpster, the paranormal power pop of Stereo Scandal, and God Hates Unicorns will rise from the dead to melt some faces and steal some souls!
@@ -525,9 +528,9 @@ Doors at 7, 21+ NO COVER!
 412-922-3883
 --------------------------------------------------
 Title: Pittsburgh Opera's October Song Shop Concert
-Date and Time: Sat., Oct. 19, 12-1 p.m.
+Date & Time: Sat., Oct. 19, 12-1 p.m.
 Location 1: Bitz Opera Factory
-Location 2: 2425 LIBERTY AVE., Pittsburgh
+Location: 2425 LIBERTY AVE., Pittsburgh
 Price: Free
 Type of Event: Opera, Theater, Classical
 Description: Pittsburgh Opera’s free, informal Song Shop concerts feature the Resident Artists of Pittsburgh Opera.
@@ -535,9 +538,9 @@ Beginning at 12:00 PM on selected Saturdays of each month, October 2024–April 
 4122810912
 --------------------------------------------------
 Title: Animal Lifeline Super Bingo
-Date and Time: Sat., Oct. 19, 12:30 p.m.
+Date & Time: Sat., Oct. 19, 12:30 p.m.
 Location 1: St. Elias Social Hall
-Location 2: 4200 Homestead-Duquesne Rd., Munhall
+Location: 4200 Homestead-Duquesne Rd., Munhall
 Price: Price not available
 Type of Event: Other Stuff
 Description: SUPER BINGO FOR ANIMAL LIFELINE PGH
@@ -556,9 +559,9 @@ https://www.eventbrite.com/e/animal-lifeline-super-bingo-tickets-933210085487
 412-464-9575
 --------------------------------------------------
 Title: Animal Lifeline Super Bingo
-Date and Time: Sat., Oct. 19, 12:30-5 p.m.
+Date & Time: Sat., Oct. 19, 12:30-5 p.m.
 Location 1: St. Elias Social Hall
-Location 2: 4200 Homestead-Duquesne Rd., Munhall
+Location: 4200 Homestead-Duquesne Rd., Munhall
 Price: $40
 Type of Event: Fundraisers, Games
 Description: SUPER BINGO FOR ANIMAL LIFELINE PGH
@@ -576,27 +579,27 @@ No ticket sales at door.
 412-464-9575
 --------------------------------------------------
 Title: Fall Spiritual Hike
-Date and Time: Sat., Oct. 19, 2-4 p.m.
+Date & Time: Sat., Oct. 19, 2-4 p.m.
 Location 1: Riverview Park
-Location 2: 159 Riverview Avenue, Pittsburgh
+Location: 159 Riverview Avenue, Pittsburgh
 Price: Free
 Type of Event: Community
 Description: Come join us for a time of encountering God in nature. We will meet at the chapel shelter in Riverview Park and go for a walk through nature while engaging with the divine through the practices of prayer, communal liturgy, and Terra Divina.
 412-682-7275
 --------------------------------------------------
 Title: Community Campfire
-Date and Time: Sat., Oct. 19, 4-7 p.m.
+Date & Time: Sat., Oct. 19, 4-7 p.m.
 Location 1: Frick Environmental Center
-Location 2: 2005 Beechwood Blvd, Pittsburgh
+Location: 2005 Beechwood Blvd, Pittsburgh
 Price: $5
 Type of Event: Kidstuff
 Description: Celebrate the beauty of fall at our Community Campfire in the Frick Park Hollow on Saturday, October 19th from 4-7pm! We’ll provide the fire and sticks, and invite you to BYOR – bring your own roast-ables. We’ll have some for sharing as well. Feel free to bring blankets and chairs as seating is limited. The evening will feature live music, lawn games, and pumpkin painting for kids.
 412-422-6538
 --------------------------------------------------
 Title: Totally 80s at Vinoski Winery - Halloween Party!
-Date and Time: Sat., Oct. 19, 5-9 p.m.
+Date & Time: Sat., Oct. 19, 5-9 p.m.
 Location 1: Vinoski Winery
-Location 2: 333 Castle Dr., Pittsburgh
+Location: 333 Castle Dr., Pittsburgh
 Price: $10-$20
 Type of Event: Cover Band
 Description: 👻 Get ready for a **TOTALLY SPOOKTACULAR** night at Vinoski Winery with Totally 80s on **Saturday, October 19**! 🎸 It’s Halloween fun for the whole family! 🕷️
@@ -605,9 +608,9 @@ Join us for a night full of dancing, 80s hits, and Halloween thrills! 👻 Get y
 724-872-3333
 --------------------------------------------------
 Title: Taste of Home and Away 2024
-Date and Time: Sat., Oct. 19, 6:30-10 p.m.
+Date & Time: Sat., Oct. 19, 6:30-10 p.m.
 Location 1: Union Project
-Location 2: 801 N. Negley Ave., Pittsburgh
+Location: 801 N. Negley Ave., Pittsburgh
 Price: $75
 Type of Event: Food & Drink Event, Fundraisers, DJs
 Description: At Open Field’s largest fundraising event of the year, expect a vibrant celebration that unites a diverse cross-section of the Pittsburgh community. Highlights include food from 5 different regions as well as an open bar featuring Golden Age Beer Co.
@@ -617,27 +620,27 @@ Event Attire: Colorful cocktail... dress to impress!
 412-363-4550
 --------------------------------------------------
 Title: The Pittsburgh Pranksters
-Date and Time: Sat., Oct. 19, 7 p.m.
+Date & Time: Sat., Oct. 19, 7 p.m.
 Location 1: Dormont VFW Hall
-Location 2: 3014 W. Liberty Ave., Pittsburgh
+Location: 3014 W. Liberty Ave., Pittsburgh
 Price: $12-$15
 Type of Event: Funk, Rock
 Description: Jams and unique covers featuring Pat Lanips, Eric “Pappy” Weingrad, Michael Cerveris, and Tony Theil.
 4126896337
 --------------------------------------------------
 Title: Sun King Warriors Album Release Party
-Date and Time: Sat., Oct. 19, 7-11 p.m.
+Date & Time: Sat., Oct. 19, 7-11 p.m.
 Location 1: Mr. Smalls Theatre
-Location 2: 400 Lincoln Avenue, Millvale
+Location: 400 Lincoln Avenue, Millvale
 Price: $25
 Type of Event: Rock
 Description: On Sat. 10/19/24 the Sun King Warriors will celebrate the release of their powerful new album Like A Light with a live performance at Mr. Smalls Theater. Led by Jim Donovan, a former founding member of the acclaimed Rusted Root, Sun King Warriors are renowned for their unique “vintage rock with two tons of drums” sound.
 (412) 821-4447
 --------------------------------------------------
 Title: Boos, Brews & Books
-Date and Time: Sat., Oct. 19, 7-9 p.m.
+Date & Time: Sat., Oct. 19, 7-9 p.m.
 Location 1: Peters Township Public Library
-Location 2: 616 E. McMurray Rd., Peters
+Location: 616 E. McMurray Rd., Peters
 Price: FREE
 Type of Event: Food & Drink Event
 Description: Join us for another Boos, Brews & Books.! This free program is for adults ages 18+.
@@ -650,35 +653,35 @@ The Peters Township Library Foundation funds this event.
 7249419430
 --------------------------------------------------
 Title: Requiem
-Date and Time: First Saturday of every month, 10 p.m.-2 a.m.
+Date & Time: First Saturday of every month, 10 p.m.-2 a.m.
 Location 1: Cattivo
-Location 2: 146 44th St., Pittsburgh
+Location: 146 44th St., Pittsburgh
 Price: $4.00
 Type of Event: Other Music
 Description: 412-687-2157
 --------------------------------------------------
 Title: Am I the Jagoff? A Storytelling and Improv Show from Irony City
-Date and Time: First Saturday of every month, 8-9:30 p.m. Continues through Dec. 31
+Date & Time: First Saturday of every month, 8-9:30 p.m. Continues through Dec. 31
 Location 1: Arcade Comedy Theater
-Location 2: 943 Liberty Avenue, Pittsburgh
+Location: 943 Liberty Avenue, Pittsburgh
 Price: $15 / $10 college students
 Type of Event: Comedy
 Description: Join veteran comedy troupe Irony City as they deftly navigate social missteps on the first Saturday each month. You’ve been there: acted out at a wedding without a cookie table, ordered fries on a salad at a fancy restaurant, or dared to move a parking chair, afterwards wondering, “Am I the Jagoff?” A local comedian confesses a potential jagoff moment, sparking Irony City’s improvisations. Witness relatable blunders transformed into laughter until we know in the end: were they the jagoff? Don't miss some of the city's best comedy performers in this engaging exploration of everyday foibles.
 (412) 339-0608
 --------------------------------------------------
 Title: Quantum Theatre’s The Cabinet of Dr. Caligari Sunday Q&A
-Date and Time: Sun., Nov. 3, 9:30 p.m.
+Date & Time: Sun., Nov. 3, 9:30 p.m.
 Location 1: Union Trust Building
-Location 2: 501 Grant St., Pittsburgh
+Location: 501 Grant St., Pittsburgh
 Price: $68
 Type of Event: Talk
 Description: Attend the first Sunday matinee performance and stay afterwards for a discussion with the cast, crew, and creative team. Learn about the artistic inspirations and production challenges involved with each show.
 4123621713
 --------------------------------------------------
 Title: Everything Goes! Variety Brunch
-Date and Time: First Sunday of every month, 11 a.m.-1 p.m.
+Date & Time: First Sunday of every month, 11 a.m.-1 p.m.
 Location 1: The Bridge Music Bar
-Location 2: 6018 Broad Street, Pittsburgh
+Location: 6018 Broad Street, Pittsburgh
 Price: $20
 Type of Event: Burlesque
 Description: The Velvet Hearts! and The Bridge Music Bar are pleased to present a monthly burlesque variety brunch - EVERYTHING GOES! The variety show brunch will take place the first Sunday of every month, show beginning at 12:00 PM / doors at 11:00 AM. Tables and bar seats are $20 a seat (tables sold as full tables).
@@ -687,9 +690,9 @@ Brunch and regular menu available (priced separately).
 412-404-2216
 --------------------------------------------------
 Title: First Mothers: The Women Who Raised America’s Presidents
-Date and Time: Mon., Nov. 4, 7-9 p.m.
+Date & Time: Mon., Nov. 4, 7-9 p.m.
 Location 1: New Hazlett Theater
-Location 2: 6 Allegheny Square E, Pittsburgh
+Location: 6 Allegheny Square E, Pittsburgh
 Price: Pay what you can
 Type of Event: Theater
 Description: Despite the personal and political diversity of the men occupying the White House over the last two centuries, one common factor emerges — the essential ethical character and philosophical outlook of each were strongly shaped by his mother.
@@ -697,18 +700,18 @@ Through compelling first-person dramatizations, FIRST MOTHERS presents crucial m
 724-773-0700
 --------------------------------------------------
 Title: Election Day Open Sanctuary and Prayer
-Date and Time: Tue., Nov. 5, 8 a.m.-5 p.m.
+Date & Time: Tue., Nov. 5, 8 a.m.-5 p.m.
 Location 1: Community House Presbyterian Church
-Location 2: 120 Parkhurst St, Pittsburgh
+Location: 120 Parkhurst St, Pittsburgh
 Price: Free
 Type of Event: Community
 Description: The election this November is sure to raise a lot of fears and anxiety as we determine the leadership of our country. We will have our sanctuary open for prayer silently or with prayer partners. If you are feeling stressed on November 5th please stop by for a moment of peace
 412-321-3900
 --------------------------------------------------
 Title: Easterseals Partner in Equity Reception: An Evening Under the Stars
-Date and Time: Wed., Nov. 6, 6-9 p.m.
+Date & Time: Wed., Nov. 6, 6-9 p.m.
 Location 1: Sienna Mercato - Il Tetto Rooftop Beer Garden
-Location 2: 942 Penn Ave, Pittsburgh
+Location: 942 Penn Ave, Pittsburgh
 Price: $75.00 - $100.00
 Type of Event: Fundraisers
 Description: Join us at Sienna Mercato's Il Tetto Glass Top Bar on November 6, 2024 at 6:00 PM to celebrate the 2024 Partner In Equity awardees, John Vento and Ron 'Moondog' Esser. The evening will include the award presentation, appetizers, entertainment, networking opportunities and more!
@@ -716,18 +719,18 @@ This fundraising event supports the programs and services Easterseals provides f
 412-281-7244 x 1263
 --------------------------------------------------
 Title: Quantum Theatre’s The Cabinet of Dr. Caligari’s Social Q
-Date and Time: Wed., Nov. 6, 6:30-7:30 p.m.
+Date & Time: Wed., Nov. 6, 6:30-7:30 p.m.
 Location 1: The Rivers Club, One Oxford Center
-Location 2: 301 Grant Street, 6th Floor, Pittsburgh
+Location: 301 Grant Street, 6th Floor, Pittsburgh
 Price: 75
 Type of Event: Community
 Description: Enjoy a special pre-show reception with champagne punch and light bites while you mingle with Quantum friends old and new. Patrons will receive complimentary parking, in the Oxford Center Garage, for the reception and the show.
 4123621713
 --------------------------------------------------
 Title: Partners For Comedy
-Date and Time: Wed., Nov. 6, 7-9 p.m.
+Date & Time: Wed., Nov. 6, 7-9 p.m.
 Location 1: The Improv
-Location 2: 166 Bridge Street, Homestead
+Location: 166 Bridge Street, Homestead
 Price: 38.00
 Type of Event: Fundraisers
 Description: The third annual Partners For Comedy is a blend of two great things: an evening of non-stop laughter and support for one of Pittsburgh’s most worthy causes.
@@ -736,36 +739,36 @@ We are thrilled to welcome Bill Crawford back as headliner. The co-host of the W
 412-446-0702
 --------------------------------------------------
 Title: Knit Pit Yarn Club
-Date and Time: First Wednesday of every month, 6:30-9 p.m.
+Date & Time: First Wednesday of every month, 6:30-9 p.m.
 Location 1: Eleventh Hour Brewing Co
-Location 2: 3711 Charlotte Street, Pittsburgh
+Location: 3711 Charlotte Street, Pittsburgh
 Price: Attendance is Free
 Type of Event: Visual Art, Community
 Description: Welcome to Knit PIT Yarn Club, a meetup for knitters of all levels! Tap into your creativity and have fun while crafting with others. Join us to learn new skills, share patterns, and make friends. Whether you're knitting your first scarf or your 25th sweater, you'll find inspiration, laughter, and good vibes. Come enjoy the crafty chaos — knitting is about the journey, not just the finished piece! We meet at Eleventh Hour Brewing on the first Wednesday of each month. We also offer workshops, lessons, and kits.
 (412)699-4074
 --------------------------------------------------
 Title: Nasty Slam
-Date and Time: First Wednesday of every month, 10-11:45 p.m.
+Date & Time: First Wednesday of every month, 10-11:45 p.m.
 Location 1: Spirit Hall & Lodge
-Location 2: 242 51st St., Pittsburgh
+Location: 242 51st St., Pittsburgh
 Price: $10 to watch, $10 to play
 Type of Event: Literary
 Description: Cheer on local writers during the latest Nasty Slam, a live poetry contest at Spirit where the winner is determined by audience applause. Bring three poems, your friends, and a willingness to fight dirty with your most ill-mannered, aggressive, take-no-prisoners attitude. The triumphant will take home a $200 cash prize and the prestige of being one of Pittsburgh’s nastiest poets.
 412-586-4441
 --------------------------------------------------
 Title: Quantum Theatre’s The Cabinet of Dr. Caligari’s Quantum Quaff
-Date and Time: Thu., Nov. 7, 6:30 p.m.
+Date & Time: Thu., Nov. 7, 6:30 p.m.
 Location 1: Union Trust Building
-Location 2: 501 Grant St., Pittsburgh
+Location: 501 Grant St., Pittsburgh
 Price: $80
 Type of Event: Food & Drink Event, Theater
 Description: Enjoy a special pre-show reception with specially curated wines from Nine O'Clock Wines and food pairings from Bistro to Go.
 4123621713
 --------------------------------------------------
 Title: Calliope Presents Mitch Greenhill
-Date and Time: Thu., Nov. 7, 7 p.m.
+Date & Time: Thu., Nov. 7, 7 p.m.
 Location 1: The Roots Cellar
-Location 2: 6300 Fifth Avenue, Pittsburgh Center for the Arts, Pittsburgh
+Location: 6300 Fifth Avenue, Pittsburgh Center for the Arts, Pittsburgh
 Price: $20.00
 Type of Event: Other Music
 Description: As the son of Manny Greenhill, who founded Folklore Productions in 1957, Mitch was exposed to music from childhood. He grew up in the fervent and dynamic 1960’s Boston music scene, launching a successful music career as a recording artist, live performer, record producer, and music executive.
@@ -773,9 +776,9 @@ Mitch’s award-winning musical career spans over 50 years of work as a recordin
 His latest album, MITCHOLOGY is a collection of original songs, sung and played by the composer with an array of guests on instruments and vocals.
 --------------------------------------------------
 Title: Disney''s Beauty and the Beast
-Date and Time: Thu., Nov. 7, 7:30-10 p.m., Fri., Nov. 8, 7:30-10 p.m., Sat., Nov. 9, 2-4:30 & 7:30-10 p.m. and Sun., Nov. 10, 2-4:30 p.m.
+Date & Time: Thu., Nov. 7, 7:30-10 p.m., Fri., Nov. 8, 7:30-10 p.m., Sat., Nov. 9, 2-4:30 & 7:30-10 p.m. and Sun., Nov. 10, 2-4:30 p.m.
 Location 1: Byham Theater
-Location 2: 101 Sixth Street, Pittsburgh
+Location: 101 Sixth Street, Pittsburgh
 Price: $19.50 - $66.25
 Type of Event: Theater, Kidstuff
 Description: A tale as old as time and enchanting as can be!
@@ -784,9 +787,9 @@ Presented in partnership with the Pittsburgh Cultural Trust. Featuring young art
 412-456-6666
 --------------------------------------------------
 Title: Lea Marra & The River Boys
-Date and Time: Thu., Nov. 7, 8 p.m.
+Date & Time: Thu., Nov. 7, 8 p.m.
 Location 1: The Funhouse @ Mr. Smalls
-Location 2: 400 Lincoln Ave, Millvale
+Location: 400 Lincoln Ave, Millvale
 Price: Advance: $12.00 - Day Of Show: $15.00
 Type of Event: Rock
 Description: Mr. Smalls Presents
@@ -798,27 +801,27 @@ This event is all ages.
 6034337465
 --------------------------------------------------
 Title: The Palmer Squares
-Date and Time: Thu., Nov. 7, 8-11 p.m.
+Date & Time: Thu., Nov. 7, 8-11 p.m.
 Location 1: Hard Rock Cafe
-Location 2: 230 West Station Square Drive, Pittsburgh
+Location: 230 West Station Square Drive, Pittsburgh
 Price: $15.00
 Type of Event: Hip Hop
 Description: Hard Rock Cafe and CE Presents welcome The Palmer Squares with special guests on Thursday, November 7, 2024! Entry and seating for event attendees begin at 7:00 PM. General Admission tickets are required for entry and are available for purchase at Eventbrite.com. Seating within the event is available on a first-come, first-served basis. General Admission tickets do not reserve a seat. If you require accessible seating accommodations, you must notify the venue in advance. This event is open to all ages with alcohol available for purchase to attendees ages 21 and over. Valid identification is required for the purchase and/or
 412-481-7625
 --------------------------------------------------
 Title: Yacht Rock N’at
-Date and Time: First Thursday of every month, 7-11 p.m.
+Date & Time: First Thursday of every month, 7-11 p.m.
 Location 1: The Warren Bar & Burrow
-Location 2: 245 7th St, Pittsburgh
+Location: 245 7th St, Pittsburgh
 Price: FREE
 Type of Event: DJs
 Description: Every first Thursday for the last 3 years, Yacht Rock N’at has been providing a soundtrack of smooth bar grooves and laid back jams to usher you into the weekend. Forgotten classics and unearthed gems. Some call it a vibe, while others have no idea what Yacht Rock is. It’s FREE & FOR ALL. Pull up a stool, order a yachtrocktail and let that soft rock soothe your hard times. Sounds from Jarrett Tebbets (Hot Mass, Spaghetti Disco)
 (412) 201-5888
 --------------------------------------------------
 Title: Daryl Shawn plays world-influenced guitar at Scratch
-Date and Time: First Thursday of every month, 8-10 p.m.
+Date & Time: First Thursday of every month, 8-10 p.m.
 Location 1: Scratch Food & Beverage
-Location 2: 1720 Lowrie St., Pittsburgh
+Location: 1720 Lowrie St., Pittsburgh
 Price: Free
 Type of Event: World, Acoustic, Indie
 Description: Oft-touring acoustic guitarist Daryl Shawn appears in Troy Hill at Scratch Food & Beverage on the first Thursday of every month. Scratch is located at 1720 Lowrie St. in Pittsburgh. The performance begins at 8:00 p.m. Admission is free, and admission is limited to those 21 and over.
@@ -826,9 +829,9 @@ An alumnus of Boston's esteemed Berklee College of Music, Shawn creates the soun
 412-251-0822
 --------------------------------------------------
 Title: Trace Remains 'Leverage The Tides' Album Release Show
-Date and Time: Fri., Nov. 8, 9 p.m.
+Date & Time: Fri., Nov. 8, 9 p.m.
 Location 1: The Funhouse @ Mr. Smalls
-Location 2: 400 Lincoln Ave, Millvale
+Location: 400 Lincoln Ave, Millvale
 Price: Advance: $12.00 - Day Of Show: $15.00
 Type of Event: Rock
 Description: Mr. Smalls Presents
@@ -839,9 +842,9 @@ This Event Is All Ages
 6034337465
 --------------------------------------------------
 Title: Carnegie Mellon Chamber Series: Happening Now
-Date and Time: Mon., Feb. 24, 7:30-9:30 p.m.
+Date & Time: Mon., Feb. 24, 7:30-9:30 p.m.
 Location 1: Carnegie Mellon University Kresge Theater, College of Fine Arts
-Location 2: 5000 Forbes Ave, Pittsburgh
+Location: 5000 Forbes Ave, Pittsburgh
 Price: Free
 Type of Event: Classical
 Description: Carnegie Mellon Chamber Series: Happening Now
@@ -858,9 +861,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Carnegie Mellon Philharmonic | Student Composers Concert
-Date and Time: Thu., Feb. 27, 8-10 p.m.
+Date & Time: Thu., Feb. 27, 8-10 p.m.
 Location 1: Carnegie Music Hall
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: $10 / $5
 Type of Event: Classical
 Description: Carnegie Mellon Philharmonic
@@ -875,9 +878,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Quintessential Chatham Baroque
-Date and Time: Fri., March 14, 7:30-11:30 p.m.
+Date & Time: Fri., March 14, 7:30-11:30 p.m.
 Location 1: Teutonia Männerchor
-Location 2: 857 Phineas Street, Pittsburgh
+Location: 857 Phineas Street, Pittsburgh
 Price: $20 - $40
 Type of Event: Classical
 Description: Quintessential Chatham Baroque
@@ -889,27 +892,27 @@ Since its founding, Chatham Baroque cut its teeth on the vast repertoire for two
 (412) 687-1788
 --------------------------------------------------
 Title: Peanut Butter & Jam Sessions -The Adventures of Vi & Len with Julie Andrijeski
-Date and Time: Sat., March 15, 10-10:45 a.m.
+Date & Time: Sat., March 15, 10-10:45 a.m.
 Location 1: Calvary Episcopal Church
-Location 2: 315 Shady Avenue, Pittsburgh
+Location: 315 Shady Avenue, Pittsburgh
 Price: $5 - $8
 Type of Event: Classical, Theater
 Description: Chatham Baroque’s Peanut Butter & Jam Sessions are informal concerts designed specifically for preschoolers and their accompanying grownups. Extending through 2025, the series of sessions will be held at multiple locations and serves as musical adventure for children that are lively, educational - and fun!
 (412) 687-1788
 --------------------------------------------------
 Title: Peanut Butter & Jam Sessions -The Adventures of Vi & Len with Julie Andrijeski
-Date and Time: Sat., March 15, 11:15 a.m.-12 p.m.
+Date & Time: Sat., March 15, 11:15 a.m.-12 p.m.
 Location 1: Calvary Episcopal Church
-Location 2: 315 Shady Avenue, Pittsburgh
+Location: 315 Shady Avenue, Pittsburgh
 Price: $5 - $8
 Type of Event: Classical, Theater
 Description: Chatham Baroque’s Peanut Butter & Jam Sessions are informal concerts designed specifically for preschoolers and their accompanying grownups. Extending through 2025, the series of sessions will be held at multiple locations and serves as musical adventure for children that are lively, educational - and fun!
 (412) 687-1788
 --------------------------------------------------
 Title: Quintessential Chatham Baroque
-Date and Time: Sat., March 15, 7:30-11:30 p.m.
+Date & Time: Sat., March 15, 7:30-11:30 p.m.
 Location 1: Hicks Memorial Chapel
-Location 2: 616 N Highland Ave, Pittsburgh
+Location: 616 N Highland Ave, Pittsburgh
 Price: $20 - $40
 Type of Event: Classical
 Description: Quintessential Chatham Baroque
@@ -921,9 +924,9 @@ Since its founding, Chatham Baroque cut its teeth on the vast repertoire for two
 (412) 687-1788
 --------------------------------------------------
 Title: Quintessential Chatham Baroque
-Date and Time: Sun., March 16, 2:30-6:30 p.m.
+Date & Time: Sun., March 16, 2:30-6:30 p.m.
 Location 1: Levy Hall at Rodef Shalom
-Location 2: 4905 Fifth Ave., Pittsburgh
+Location: 4905 Fifth Ave., Pittsburgh
 Price: $20 - $40
 Type of Event: Classical
 Description: Quintessential Chatham Baroque
@@ -935,9 +938,9 @@ Since its founding, Chatham Baroque cut its teeth on the vast repertoire for two
 (412) 687-1788
 --------------------------------------------------
 Title: CMU Chorus & Singers
-Date and Time: Thu., March 20, 7:30-9:30 p.m.
+Date & Time: Thu., March 20, 7:30-9:30 p.m.
 Location 1: Alumni Concert Hall, CMU
-Location 2: 5000 Forbes Ave, Pittsburgh
+Location: 5000 Forbes Ave, Pittsburgh
 Price: Free
 Type of Event: Classical
 Description: CMU Chorus & Singers
@@ -947,9 +950,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Pittsburgh Opera presents "Madama Butterfly"
-Date and Time: Sat., March 22, 8-11 p.m., Tue., March 25, 7-10 p.m., Thu., March 27, 10:15 a.m.-1 p.m., Fri., March 28, 7:30-10:30 p.m. and Sun., March 30, 2-5 p.m.
+Date & Time: Sat., March 22, 8-11 p.m., Tue., March 25, 7-10 p.m., Thu., March 27, 10:15 a.m.-1 p.m., Fri., March 28, 7:30-10:30 p.m. and Sun., March 30, 2-5 p.m.
 Location 1: Benedum Center
-Location 2: 237 7th St., Pittsburgh
+Location: 237 7th St., Pittsburgh
 Price: $14.50 - $169
 Type of Event: Opera, Theater, Classical
 Description: His escape is her cage.
@@ -958,9 +961,9 @@ Pinkerton puts on a VR headset and transports us into a vibrant virtual reality 
 412-456-6666
 --------------------------------------------------
 Title: Carnegie Mellon Wind Ensemble
-Date and Time: Sun., March 23, 2:30-4:30 p.m.
+Date & Time: Sun., March 23, 2:30-4:30 p.m.
 Location 1: Carnegie Music Hall
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: Free
 Type of Event: Classical
 Description: Carnegie Mellon Wind Ensemble
@@ -978,9 +981,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Carnegie Mellon Chamber Series: Schumann & Schubert
-Date and Time: Tue., April 1, 7:30-9:30 p.m.
+Date & Time: Tue., April 1, 7:30-9:30 p.m.
 Location 1: Carnegie Mellon University Kresge Theater, College of Fine Arts
-Location 2: 5000 Forbes Ave, Pittsburgh
+Location: 5000 Forbes Ave, Pittsburgh
 Price: Free
 Type of Event: Classical
 Description: Carnegie Mellon Chamber Series: Schumann & Schubert
@@ -1001,9 +1004,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: A Gala of Grand Opera
-Date and Time: Wed., April 2, 8-10 p.m.
+Date & Time: Wed., April 2, 8-10 p.m.
 Location 1: Carnegie Music Hall
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: $10 / $5
 Type of Event: Classical
 Description: Carnegie Mellon Philharmonic
@@ -1025,9 +1028,9 @@ Tickets avaliable in 2025
 412-268-2383
 --------------------------------------------------
 Title: Bach Markus Passion with The Sebastians, Chatham Baroque & Joseph Marcell
-Date and Time: Fri., April 11, 7:30-11:30 p.m.
+Date & Time: Fri., April 11, 7:30-11:30 p.m.
 Location 1: Carnegie Music Hall
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: $20 - $45
 Type of Event: Classical
 Description: Bach Markus Passion with The Sebastians, Chatham Baroque & Joseph Marcell
@@ -1036,9 +1039,9 @@ Led by Artistic Director Bill Barclay, Concert Theatre Works has created a first
 (412) 687-1788
 --------------------------------------------------
 Title: Carnegie Mellon Jazz Orchestra & JIVE-Carnegie Mellon Jazz Choir
-Date and Time: Tue., April 15, 7-9 p.m.
+Date & Time: Tue., April 15, 7-9 p.m.
 Location 1: Carnegie Music Hall
-Location 2: 4400 Forbes Avenue, Pittsburgh
+Location: 4400 Forbes Avenue, Pittsburgh
 Price: Free
 Type of Event: Jazz
 Description: Carnegie Mellon Jazz Orchestra & JIVE-Carnegie Mellon Jazz Choir
@@ -1050,9 +1053,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Carnegie Mellon Guitar Ensemble
-Date and Time: Wed., April 16, 8-10 p.m.
+Date & Time: Wed., April 16, 8-10 p.m.
 Location 1: Kresge Theater, CMU
-Location 2: 5000 Forbes Ave, Pittsburgh
+Location: 5000 Forbes Ave, Pittsburgh
 Price: Free
 Type of Event: Classical
 Description: Carnegie Mellon Guitar Ensemble
@@ -1063,9 +1066,9 @@ Cost: Free and open to the public; Tickets required.
 412-268-2383
 --------------------------------------------------
 Title: Pittsburgh Opera presents "Woman With Eyes Closed"
-Date and Time: Sat., April 26, 8-9:15 p.m., Tue., April 29, 7-8:15 p.m., Fri., May 2, 7:30-8:45 p.m. and Sun., May 4, 4-5:15 p.m.
+Date & Time: Sat., April 26, 8-9:15 p.m., Tue., April 29, 7-8:15 p.m., Fri., May 2, 7:30-8:45 p.m. and Sun., May 4, 4-5:15 p.m.
 Location 1: Bitz Opera Factory
-Location 2: 2425 LIBERTY AVE., Pittsburgh
+Location: 2425 LIBERTY AVE., Pittsburgh
 Price: $27.50-$55.00
 Type of Event: Opera, Theater, Classical
 Description: A family portrait.
@@ -1073,9 +1076,9 @@ When Mona finds a mysterious suitcase filled with stolen masterpieces, she must 
 412-281-0912
 --------------------------------------------------
 Title: Carnegie Mellon Philharmonic
-Date and Time: Sun., April 27, 8-10 p.m.
+Date & Time: Sun., April 27, 8-10 p.m.
 Location 1: Heinz Hall
-Location 2: 600 Penn Avenue, Pittsburgh
+Location: 600 Penn Avenue, Pittsburgh
 Price: $10 / $5
 Type of Event: Classical
 Description: Carnegie Mellon Philharmonic
@@ -1093,3 +1096,4 @@ $5 Senior Citizen (65+) Admission
 All students, along with CMU/Pitt faculty and staff, are free w/ valid ID
 412-268-2383
 --------------------------------------------------
+=section_end=
